@@ -1,0 +1,40 @@
+Pré-requis : installation de Git-Bash et Anaconda
+Pour tester le bon fonctionnement ouvrir le terminal Git-Bash et taper :
+- bash, on doit avoir aucun message,
+- git puis conda, dans les deux cas on doit voir apparaitre une ligne commande.
+Il faut ensuite :
+- lancer via un terminal la commande suivant, pip install pelican markdown ghp-import
+- lancer la commande pelican-quickstart
+
+Commande pour routine :
+# On se place dans le dossier contenant les fichiers sources
+cd D:\\IRD\\4-Developpement\\4-Git\\MathieuDepetris.github.io
+
+# Création du contenu et visualisation
+pelican content
+cd output
+python -m http.server
+# aller sur http://localhost:8000/
+# ctrl + c pour quitter
+
+# Création d'un raccourci pour le code ci-dessus:
+./preview_content.bat
+
+# Préparation du git
+# Copier le .gitignore disponible ici https://github.com/getpelican/pelican-blog/blob/master/.gitignore
+# Créer un fichier README.md
+# Créer un répertoire sur les page GitHub
+# Créer une branche pelican
+git checkout -b pelican
+
+# Deployer le contenu sur le git
+./publish.bat "add content"
+
+#Automatisation
+Terminal 1 :
+cd D:\\IRD\\4-Developpement\\4-Git\\MathieuDepetris.github.io
+./1_preview_content.bat
+Terminal 2 :
+cd D:\\IRD\\4-Developpement\\4-Git\\MathieuDepetris.github.io
+./2_build.bat
+./3_publish.bat "add content"
