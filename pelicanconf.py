@@ -31,7 +31,12 @@ SOCIAL = (('You can add links in your config file', '#'),
 
 DEFAULT_PAGINATION = False
 
-# Theme
+# Plugins
+PLUGIN_PATHS = ['C:\\ProgramData\\Anaconda3\\pkgs\\python-3.7.3-h8c8aaf0_1\\pelican-addon-clones\\pelican-plugins']
+PLUGINS = ['i18n_subsites', ]
+JINJA_ENVIRONMENT = {'extensions': ['jinja2.ext.i18n'],}
 
+# theme and theme localization
+THEME = 'pelican-fh5co-marble'
 # Uncomment following line if you want document-relative URLs when developing
 #RELATIVE_URLS = True
