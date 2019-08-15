@@ -50,6 +50,8 @@ Pour installer un thème (ici avec l'exemple du thème pelican-fh5co-marble disp
 Ouvrir un terminal git-bash puis se déplacer dans le dossier local du git, par exemple :
 
     cd D:\\IRD\\4-Developpement\\4-Git\\MathieuDepetris.github.io
+    # ou
+    cd E:\\1-BibiCorp\\Travail\\MathieuDepetris.github.io
     ./1_preview_content.bat
 
 Le contenu est visualisable à l'adresse locale suivante http://localhost:8000/
@@ -58,5 +60,7 @@ Pour rafraîchir la page, après insertion de contenu et lancement du bat 2_buil
 Ouvrir un deuxième git-bash et se déplacer dans le dossier local du git, par exemple :
 
     cd D:\\IRD\\4-Developpement\\4-Git\\MathieuDepetris.github.io
+    # ou
+    cd E:\\1-BibiCorp\\Travail\\MathieuDepetris.github.io
     ./2_build.bat
     ./3_publish.bat "add content"
