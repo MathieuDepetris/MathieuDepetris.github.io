@@ -30,6 +30,22 @@ Créer un fichier README.md (il s'agit du document que vous lisez)
 Créer une branche pelican afin de stocker les fichiers sources :
     git checkout -b pelican
 
+# Installation des thèmes et plugins pour pelican
+
+Se placer dans le repertoire de python (ci-dessous un exemple de chemin) :
+
+    cd C:\\ProgramData\\Anaconda3\\pkgs\\python-3.7.3-h8c8aaf0_1
+    md pelican-addon-clones
+    cd pelican-addon-clones
+    git clone --recursive https://github.com/getpelican/pelican-plugins
+    git clone --recursive https://github.com/getpelican/pelican-themes
+
+Pour installer un thème (ici avec l'exemple du thème pelican-fh5co-marble disponible dans les fichiers sources du site)
+
+    pelican-themes --install E:\\1-BibiCorp\\Travail\\MathieuDepetris.github.io\\themes\\pelican-fh5co-marble
+    # Pour verifier les thèmes installés
+    pelican-themes -v -l
+
 # Automatisation des tâches
 Ouvrir un terminal git-bash puis se déplacer dans le dossier local du git, par exemple :
 
