@@ -57,27 +57,10 @@ Ouvrir un terminal git-bash puis se déplacer dans le dossier local du git (exem
     # ou
     cd E:\\1-BibiCorp\\Travail\\MathieuDepetris.github.io
 
-Pour générer le contenu :
+Pour générer le contenu et le prévisualiser (http://localhost:8000/) :
 
-    make html
+    make html && make serve
 
-Pour prévisualiser le site (visualisable à l'adresse locale suivante http://localhost:8000/) :
+Pour publier le contenu :
 
-    make serve
-
-Ouvrir un terminal git-bash puis se déplacer dans le dossier local du git, par exemple :
-
-    cd D:\\IRD\\4-Developpement\\4-Git\\MathieuDepetris.github.io
-    # ou
-    cd E:\\1-BibiCorp\\Travail\\MathieuDepetris.github.io
-    ./1_preview_content.bat
-
-Le contenu est visualisable à l'adresse locale suivante http://localhost:8000/
-
-Ouvrir un deuxième git-bash et se déplacer dans le dossier local du git, par exemple :
-
-    cd D:\\IRD\\4-Developpement\\4-Git\\MathieuDepetris.github.io
-    # ou
-    cd E:\\1-BibiCorp\\Travail\\MathieuDepetris.github.io
-    ./2_build.bat
-    ./3_publish.bat "add content"
+    make html && make publish

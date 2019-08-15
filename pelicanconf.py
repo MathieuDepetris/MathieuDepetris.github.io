@@ -32,7 +32,8 @@ LINKS = (('Pelican', 'http://getpelican.com/'),
 
 # Social widget
 SOCIAL = (('Github', 'https://github.com/MathieuDepetris'),
-          ('Another social link', '#'),)
+          ('Linkedin', 'https://www.linkedin.com/in/mathieu-depetris-ab3b3b90/'),
+          ('Viadeo', 'http://fr.viadeo.com/fr/profile/mathieu.depetris'),)
 
 # Plugins
 # PLUGIN_PATHS = ['C:\\ProgramData\\Anaconda3\\pkgs\\python-3.7.3-h8c8aaf0_1\\pelican-addon-clones\\pelican-plugins']
@@ -68,9 +69,9 @@ PAGE_ORDER_BY = 'order'
 ABOUT = {
   'mail': 'mdepetris@live.fr',
   # keep it a string if you dont need multiple languages
-  'text': '9 avenue Raymond Pitet,<br/> 34300 Agde, <br/>France',
+  'text': '9 avenue Raymond Pitet, 1er étage<br/> 34300 Agde, <br/>France',
   #'link': 'contact.html',
   # the address is also taken for google maps
-  'address': '9 avenue Raymond Pitet,<br/> 34300 Agde, <br/>France',
+  'address': '9 avenue Raymond Pitet, 1er étage<br/> 34300 Agde, <br/>France',
   'phone': '+33(0) 6 61 62 72 04'
 }
