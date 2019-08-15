@@ -63,4 +63,4 @@ Pour générer le contenu et le prévisualiser (http://localhost:8000/) :
 
 Pour publier le contenu :
 
-    make html && make publish_github
+    make publish_github

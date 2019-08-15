@@ -49,10 +49,6 @@ I18N_SUBSITES = {
     'LOCALE': 'en_UK'
   }
 }
-I18N_GETTEXT_LOCALEDIR = 'pelican-fh5co-marble/locale/'
-I18N_GETTEXT_DOMAIN = 'messages'
-I18N_GETTEXT_NEWSTYLE = True
-I18N_TEMPLATES_LANG = 'fr_FR'
 
 # theme and theme localization
 THEME = 'pelican-fh5co-marble'
