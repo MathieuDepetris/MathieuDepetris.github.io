@@ -21,6 +21,9 @@ Pour créer le squelette du site la première fois :
 
 Une aide avec des exemples est disponible à l'adresse suivante : <https://rasor.github.io/using-pelican-blog-on-github-pages.html>
 
+Pour finir, il faut installer la commande make dans le terminal git-bash.  
+Pour cela, copier l'ensemble du dossier diverse\make-4.2.1-without-guile-w32-bin dans le repertoire C:\Program Files\Git\mingw64 (à adapter)
+
 # Préparation du git
 
 Créer un répertoire sur les pages GitHub
@@ -47,6 +50,21 @@ Pour installer un thème (ici avec l'exemple du thème pelican-fh5co-marble disp
     pelican-themes -v -l
 
 # Automatisation des tâches
+
+Ouvrir un terminal git-bash puis se déplacer dans le dossier local du git (exemple ci-dessous à adapter) :
+
+    cd D:\\IRD\\4-Developpement\\4-Git\\MathieuDepetris.github.io
+    # ou
+    cd E:\\1-BibiCorp\\Travail\\MathieuDepetris.github.io
+
+Pour générer le contenu :
+
+    make html
+
+Pour prévisualiser le site (visualisable à l'adresse locale suivante http://localhost:8000/) :
+
+    make serve
+
 Ouvrir un terminal git-bash puis se déplacer dans le dossier local du git, par exemple :
 
     cd D:\\IRD\\4-Developpement\\4-Git\\MathieuDepetris.github.io
@@ -55,7 +73,6 @@ Ouvrir un terminal git-bash puis se déplacer dans le dossier local du git, par 
     ./1_preview_content.bat
 
 Le contenu est visualisable à l'adresse locale suivante http://localhost:8000/
-Pour rafraîchir la page, après insertion de contenu et lancement du bat 2_build ci-dessous, appuyer sur F5.
 
 Ouvrir un deuxième git-bash et se déplacer dans le dossier local du git, par exemple :
 

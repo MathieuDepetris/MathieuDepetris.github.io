@@ -36,7 +36,7 @@ SOCIAL = (('Github', 'https://github.com/MathieuDepetris'),
 
 # Plugins
 # PLUGIN_PATHS = ['C:\\ProgramData\\Anaconda3\\pkgs\\python-3.7.3-h8c8aaf0_1\\pelican-addon-clones\\pelican-plugins']
-PLUGIN_PATHS = 'plugins'
+PLUGIN_PATHS = ['plugins']
 PLUGINS = ['i18n_subsites', ]
 JINJA_ENVIRONMENT = {'extensions': ['jinja2.ext.i18n'],}
 
@@ -66,12 +66,11 @@ PAGE_ORDER_BY = 'order'
 
 # Contact section
 ABOUT = {
-  'image': '/images/about/objectif.png',
-  'mail': 'ob7@ird.fr',
+  'mail': 'mdepetris@live.fr',
   # keep it a string if you dont need multiple languages
-  'text': 'Avenue Jean Monnet,<br/> CS 30171, 34203 Sète cedex, <br/>France',
+  'text': '9 avenue Raymond Pitet,<br/> 34300 Agde, <br/>France',
   #'link': 'contact.html',
   # the address is also taken for google maps
-  'address': 'Avenue Jean Monnet,<br/> CS 30171, 34203 Sète cedex, <br/>France ',
-  'phone': '+33(0) 4 99 57 32 00'
+  'address': '9 avenue Raymond Pitet,<br/> 34300 Agde, <br/>France',
+  'phone': '+33(0) 6 61 62 72 04'
 }
