@@ -33,7 +33,7 @@ LINKS = (('Pelican', 'http://getpelican.com/'),
 # Social widget
 SOCIAL = (('Github', 'https://github.com/MathieuDepetris'),
           ('Linkedin', 'https://www.linkedin.com/in/mathieu-depetris-ab3b3b90/'),
-          ('Viadeo', 'http://fr.viadeo.com/fr/profile/mathieu.depetris'),)
+          ('viadeo', 'http://fr.viadeo.com/fr/profile/mathieu.depetris'),)
 
 # Plugins
 # PLUGIN_PATHS = ['C:\\ProgramData\\Anaconda3\\pkgs\\python-3.7.3-h8c8aaf0_1\\pelican-addon-clones\\pelican-plugins']
