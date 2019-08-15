@@ -64,3 +64,7 @@ Pour générer le contenu et le prévisualiser (http://localhost:8000/) :
 Pour publier le contenu :
 
     make publish_github
+
+Pour regénerer le site completement et lancer la prévisualisation :
+
+    make devserver
