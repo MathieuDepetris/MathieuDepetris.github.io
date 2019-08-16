@@ -24,14 +24,26 @@ Une aide avec des exemples est disponible à l'adresse suivante : <https://rasor
 Pour finir, il faut installer la commande make dans le terminal git-bash.  
 Pour cela, copier l'ensemble du dossier diverse\make-4.2.1-without-guile-w32-bin dans le repertoire C:\Program Files\Git\mingw64 (à adapter)
 
-# Préparation du git
+# Préparation du git la première fois
 
 Créer un répertoire sur les pages GitHub
 Copier le .gitignore disponible ici https://github.com/getpelican/pelican-blog/blob/master/.gitignore et le placer dans le répertoire du git
 Créer un fichier README.md (il s'agit du document que vous lisez)
 
 Créer une branche pelican afin de stocker les fichiers sources :
+
     git checkout -b pelican
+
+Il faut aussi renseigner les indentifiants github :
+
+    git config --global user.email "you@example.com"
+    git config --global user.name "Your Name"
+
+# Pour récupérer les fichiers source du git
+
+Se placer dans le répertoire ou l'on souhaite copier les fichiers sources 
+
+    git clone --branch pelican https://github.com/MathieuDepetris/MathieuDepetris.github.io.git
 
 # Installation des thèmes et plugins pour pelican
 
