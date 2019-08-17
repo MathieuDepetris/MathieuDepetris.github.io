@@ -2,7 +2,6 @@ title: Mes formations
 order: 1
 icon: icon-point-of-interest
 summary:
-slug: education
 date: 2018-08-14
 lang: fr
 
