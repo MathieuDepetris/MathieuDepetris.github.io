@@ -1,6 +1,6 @@
 title: Mes expériences
 order: 2
-icon: icon-point-of-interest
+icon: icon-eye
 summary: Vous trouverez ici la liste et les références de mes expériences professionnelles.
 date: 2018-08-19
 lang: fr
