@@ -1,7 +1,7 @@
 title: Mes formations
 order: 1
 icon: icon-point-of-interest
-summary:
+summary: Vous trouverez ici la liste des formations que j'ai suivies ainsi que les compétences associées.
 date: 2018-08-14
 lang: fr
 
