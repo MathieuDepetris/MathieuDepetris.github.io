@@ -33,7 +33,8 @@ LINKS = (('Pelican', 'http://getpelican.com/'),
 # Social widget
 SOCIAL = (('Github', 'https://github.com/MathieuDepetris'),
           ('Linkedin', 'https://www.linkedin.com/in/mathieu-depetris-ab3b3b90/'),
-          ('viadeo', 'http://fr.viadeo.com/fr/profile/mathieu.depetris'),)
+          ('viadeo', 'http://fr.viadeo.com/fr/profile/mathieu.depetris'),
+          ('Facebook', 'https://www.facebook.com/MathieuDepetris'))
 
 # Plugins
 # PLUGIN_PATHS = ['C:\\ProgramData\\Anaconda3\\pkgs\\python-3.7.3-h8c8aaf0_1\\pelican-addon-clones\\pelican-plugins']
@@ -75,3 +76,38 @@ ABOUT = {
   'address': '9 avenue Raymond Pitet, 1er étage<br/> 34300 Agde, <br/>France',
   'phone': '+33(0) 6 61 62 72 04'
 }
+
+# Background home
+HERO = [
+  # {
+  #   'image': '/images/hero/background-1.jpg',
+  #   # for multilanguage support, create a simple dict
+  #   'title': {
+  #     'en':'Some special content',
+  #     'fr': 'Spezieller Inhalt'
+  #   },
+  #   'text': {
+  #     'fr': 'Any special content you want to tease here',
+  #     'de': 'Jeglicher spezieller Inhalt den Sie hier bewerben möchten'
+  #   },
+  #   'links': [
+  #     {
+  #       'icon': 'icon-code',
+  #       'url': 'https://github.com/claudio-walser/pelican-fh5co-marble',
+  #       'text': 'Github'
+  #     }
+  #   ]
+  # },
+  {
+    'image': '/pictures/background/test.jpg',
+    'title': {
+        'fr': 'Test pour voir', 
+        'en': 'Test for looking for'
+        },
+    'text': {
+        'fr': '&copy; kevin costner', 
+        'en': '&copy; costner kevin '
+        },
+    'links': []
+  }
+]
