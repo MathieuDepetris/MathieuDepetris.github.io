@@ -9,7 +9,7 @@ lang: fr
 
 <p style="text-align: justify">
 <a href="https://cran.r-project.org/" target="_blank">
-<img align=left src="/pictures/logos/logo_r.png" width="71" height="55" hspace="20"></a>
+<img align=left src="/pictures/logos/logo_r.png" width="55" height="55" hspace="20"></a>
 Logiciel incontournable, <font color="#238896"><strong>R</strong></font> propose à son utilisateur un langage et un environnement logiciel open source permettant de réaliser des calculs statistiques et graphiques. Un de ces grands avantages est la possibilité d’installer de nombreux packages.
 </p>
 
@@ -31,7 +31,7 @@ Logiciel incontournable, <font color="#238896"><strong>R</strong></font> propose
 
 <p style="text-align: justify">
 <a href="https://notepad-plus-plus.org/fr/" target="_blank">
-<img align=left src="/pictures/logos/logo_notepadplusplus.png" width="68" height="55" hspace="20"></a>
+<img align=left src="/pictures/logos/logo_notepadplusplus.png" width="55" height="55" hspace="20"></a>
 <font color="#238896"><strong>Notepad++</strong></font> est un éditeur de code source qui prend en charge plusieurs langages. Ce programme, codé en C++ avec STL et win32 api, a pour vocation de fournir un éditeur de code source de taille réduite mais très performant.
 </p>
 
@@ -39,6 +39,6 @@ Logiciel incontournable, <font color="#238896"><strong>R</strong></font> propose
 
 <p style="text-align: justify">
 <a href="https://fr.libreoffice.org/" target="_blank">
-<img align=left src="/pictures/logos/logo_libreoffice.png" width="46" height="55" hspace="20"></a>
+<img align=left src="/pictures/logos/logo_libreoffice.png" width="55" height="55" hspace="20"></a>
 <font color="#238896"><strong>LibreOffice</strong></font> est une suite bureautique alternative à la suite Microsoft Office.<br>Elle est libre et gratuite, dérivée du projet OpenOffice.org.
 </p>
