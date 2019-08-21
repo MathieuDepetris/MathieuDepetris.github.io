@@ -99,14 +99,74 @@ HERO = [
   #   ]
   # },
   {
-    'image': '/pictures/background/test.jpg',
+    'image': '/pictures/background/background_1.jpg',
     'title': {
-        'fr': 'Test pour voir', 
-        'en': 'Test for looking for'
+        'fr': 'A le rencontre du grand blanc', 
+        'en': 'Meet the big white'
         },
     'text': {
-        'fr': '&copy; kevin costner', 
-        'en': '&copy; costner kevin '
+        'fr': '&copy; Pascal Kobeh', 
+        'en': '&copy; Pascal Kobeh'
+        },
+    'links': []
+  },
+  {
+    'image': '/pictures/background/background_2.jpg',
+    'title': {
+        'fr': '"Interdiction de pêcher !"', 
+        'en': '"No fishing !"'
+        },
+    'text': {
+        'fr': '&copy; Jamie MacArthur', 
+        'en': '&copy; Jamie MacArthur'
+        },
+    'links': []
+  },
+  {
+    'image': '/pictures/background/background_3.jpg',
+    'title': {
+        'fr': 'Orque (<i>Orcinus orca</i>)', 
+        'en': 'Orca (<i>Orcinus orca</i>)'
+        },
+    'text': {
+        'fr': '&copy; Agence des aires marines protégées', 
+        'en': '&copy; Agence des aires marines protégées'
+        },
+    'links': []
+  },
+  {
+    'image': '/pictures/background/background_4.jpg',
+    'title': {
+        'fr': 'Parc national de la Mauricie au Canada', 
+        'en': 'Canada La Mauricie National Park'
+        },
+    'text': {
+        'fr': '&copy; Mathieu Depetris', 
+        'en': '&copy; Mathieu Depetris'
+        },
+    'links': []
+  },
+  {
+    'image': '/pictures/background/background_5.jpg',
+    'title': {
+        'fr': 'Phoque gris (<i>Halichoerus grypus</i>) en mer d\'Iroise', 
+        'en': 'Grey seal (<i>Halichoerus grypus</i>) in Iroise sea'
+        },
+    'text': {
+        'fr': '&copy; S. Brégeon / Agence des aires marines protégées', 
+        'en': '&copy; S. Brégeon / Agence des aires marines protégées'
+        },
+    'links': []
+  },
+  {
+    'image': '/pictures/background/background_6.jpg',
+    'title': {
+        'fr': 'Débarquement de thonidés aux Seychelles', 
+        'en': 'Landing of tunas in Seychelles'
+        },
+    'text': {
+        'fr': '&copy; Mathieu Depetris', 
+        'en': '&copy; Mathieu Depetris'
         },
     'links': []
   }
