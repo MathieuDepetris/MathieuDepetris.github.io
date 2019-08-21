@@ -137,12 +137,12 @@ HERO = [
   {
     'image': '/pictures/background/background_4.jpg',
     'title': {
-        'fr': 'Parc national de la Mauricie au Canada', 
-        'en': 'Canada La Mauricie National Park'
+        'fr': '"Une étincelle dans la nuit"', 
+        'en': '"A spark in the night"'
         },
     'text': {
-        'fr': '&copy; Mathieu Depetris', 
-        'en': '&copy; Mathieu Depetris'
+        'fr': '&copy; Claudiu D.', 
+        'en': '&copy; Claudiu D.'
         },
     'links': []
   },
