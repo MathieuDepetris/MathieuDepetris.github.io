@@ -158,8 +158,8 @@ HERO = [
   {
     'image': '/pictures/background/background_6.jpg',
     'title': {
-        'fr': 'Queue d\'une baleine bleue (<i>Megaptera novaeangliae</i>)', 
-        'en': 'Tale of a Humpback whale (<i>Megaptera novaeangliae</i>)'
+        'fr': 'Baleine à bosse (<i>Megaptera novaeangliae</i>) au large de La Réunion', 
+        'en': 'Humpback whale (<i>Megaptera novaeangliae</i>) in large of Reunion island'
         },
     'text': {},
     'links': []
