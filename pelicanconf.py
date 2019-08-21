@@ -128,10 +128,7 @@ HERO = [
         'fr': 'Orque (<i>Orcinus orca</i>)', 
         'en': 'Orca (<i>Orcinus orca</i>)'
         },
-    'text': {
-        'fr': '&copy; Agence des aires marines protégées', 
-        'en': '&copy; Agence des aires marines protégées'
-        },
+    'text': {},
     'links': []
   },
   {
