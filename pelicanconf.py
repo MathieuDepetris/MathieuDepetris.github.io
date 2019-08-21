@@ -161,7 +161,10 @@ HERO = [
         'fr': 'Baleine à bosse (<i>Megaptera novaeangliae</i>) au large de La Réunion', 
         'en': 'Humpback whale (<i>Megaptera novaeangliae</i>) in large of Reunion island'
         },
-    'text': {},
+    'text': {
+      'fr': '&copy; Mathieu Depetris', 
+      'en': '&copy; Mathieu Depetris'
+    },
     'links': []
   }
 ]
