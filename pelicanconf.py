@@ -161,13 +161,10 @@ HERO = [
   {
     'image': '/pictures/background/background_6.jpg',
     'title': {
-        'fr': 'Phoque gris (<i>Halichoerus grypus</i>) en mer d\'Iroise', 
-        'en': 'Grey seal (<i>Halichoerus grypus</i>) in Iroise sea'
+        'fr': 'Queue d\'une baleine bleue (<i>Megaptera novaeangliae</i>)', 
+        'en': 'Tale of a Humpback whale (<i>Megaptera novaeangliae</i>)'
         },
-    'text': {
-        'fr': '&copy; S. Brégeon / Agence des aires marines protégées', 
-        'en': '&copy; S. Brégeon / Agence des aires marines protégées'
-        },
+    'text': {},
     'links': []
   }
 ]
