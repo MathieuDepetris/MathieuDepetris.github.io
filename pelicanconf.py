@@ -149,24 +149,24 @@ HERO = [
   {
     'image': '/pictures/background/background_5.jpg',
     'title': {
-        'fr': 'Phoque gris (<i>Halichoerus grypus</i>) en mer d\'Iroise', 
-        'en': 'Grey seal (<i>Halichoerus grypus</i>) in Iroise sea'
-        },
-    'text': {
-        'fr': '&copy; S. Brégeon / Agence des aires marines protégées', 
-        'en': '&copy; S. Brégeon / Agence des aires marines protégées'
-        },
-    'links': []
-  },
-  {
-    'image': '/pictures/background/background_6.jpg',
-    'title': {
         'fr': 'Débarquement de thonidés aux Seychelles', 
         'en': 'Landing of tunas in Seychelles'
         },
     'text': {
         'fr': '&copy; Mathieu Depetris', 
         'en': '&copy; Mathieu Depetris'
+        },
+    'links': []
+  },
+  {
+    'image': '/pictures/background/background_6.jpg',
+    'title': {
+        'fr': 'Phoque gris (<i>Halichoerus grypus</i>) en mer d\'Iroise', 
+        'en': 'Grey seal (<i>Halichoerus grypus</i>) in Iroise sea'
+        },
+    'text': {
+        'fr': '&copy; S. Brégeon / Agence des aires marines protégées', 
+        'en': '&copy; S. Brégeon / Agence des aires marines protégées'
         },
     'links': []
   }
