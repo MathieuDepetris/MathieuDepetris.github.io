@@ -16,7 +16,7 @@ STATIC_PATHS = ['pictures', 'documents', 'extra/favicon.ico']
 EXTRA_PATH_METADATA = {
   'extra/favicon.ico': {'path': 'favicon.ico'}
 }
-PATH = 'content'
+PATH = ['content']
 PAGE_PATHS = ['pages/fr']
 ARTICLE_PATHS = ['articles/fr']
 
