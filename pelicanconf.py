@@ -9,10 +9,13 @@ TIMEZONE = 'Europe/Paris'
 DEFAULT_DATE_FORMAT = '%a, %d %b %Y'
 DEFAULT_LANG = 'fr'
 LOCALE = 'fr_FR'
-STATIC_PATHS = ['pictures', 'documents']
 DEFAULT_PAGINATION = 10
 
 # Paths
+STATIC_PATHS = ['pictures', 'documents', 'extra/favicon.ico']
+EXTRA_PATH_METADATA = {
+  'extra/favicon.ico': {'path': 'favicon.ico'}
+}
 PATH = 'content'
 PAGE_PATHS = ['pages/fr']
 ARTICLE_PATHS = ['articles/fr']
