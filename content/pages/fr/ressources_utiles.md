@@ -58,14 +58,18 @@ Logiciel incontournable, <font color="#238896"><strong>R</strong></font> propose
 ## Système de gestion de base de données
 
 <p style="text-align: justify">
-<a href="https://dbeaver.io/" target="_blank">
-<img align=left src="/pictures/logos/logo_dbeaver.png" width="55" height="55" hspace="20"></a>
-<font color="#238896"><strong>DBeaver</strong></font> est un logiciel permettant l'administration et le requêtage de base de données. Il fournit un éditeur qui prend en charge la complétion de code et coloration syntaxique. Ce logiciel est écrit en Java et est basé sur la plate-forme Eclipse.
+<a href="https://www.qgis.org" target="_blank">
+<img align=left src="/pictures/logos/logo_qgis.png" width="55" height="55" hspace="20"></a>
+<font color="#238896"><strong>DBeaver</strong></font> est un Système d'Information Géographique (SIG) convivial distribué sous licence publique générale GNU. C'est un projet officiel de la fondation Open Source Geospatial (OSGeo). Il est compatible avec Linux, Unix, Mac OS X, Windows et Android et intègre de nombreux formats vecteur, raster, base de données et fonctionnalités.
 </p>
 
 ## Logiciel de Système d'Information Géographique
 
-QGIS
+<p style="text-align: justify">
+<a href="https://dbeaver.io/" target="_blank">
+<img align=left src="/pictures/logos/logo_dbeaver.png" width="55" height="55" hspace="20"></a>
+<font color="#238896"><strong>QGIS</strong></font> est un logiciel permettant l'administration et le requêtage de base de données. Il fournit un éditeur qui prend en charge la complétion de code et coloration syntaxique. Ce logiciel est écrit en Java et est basé sur la plate-forme Eclipse.
+</p>
 
 ## PAO (Publication Assistée par Ordinateur)
 
@@ -103,24 +107,62 @@ Alternative à Photoshop, <font color="#238896"><strong>GIMP</strong></font> est
 
 ## Logiciel de gestion de versions
 
-GitHub
+<p style="text-align: justify">
+<a href="https://git-scm.com/" target="_blank">
+<img align=left src="/pictures/logos/logo_git.png" width="55" height="55" hspace="20"></a>
+<font color="#238896"><strong>Git</strong></font> est un système de contrôle de version gratuit et open source, conçu pour gérer tout projet, du plus petit au plus grand, avec rapidité et efficacité. L'administation de ce système peut se faire via des lignes de commandes (avec par exemple le terminal Git BASH) ou par des interfaces graphiques comme Git GUI. Allez faire un tour <a href="https://git-scm.com/book/en/v2" target="_blank">ici</a> pour en savoir plus.
+</p>
+
+<p style="text-align: justify">
+<a href="https://github.com/" target="_blank">
+<img align=left src="/pictures/logos/logo_github.png" width="55" height="55" hspace="20"></a>
+<font color="#238896"><strong>GitHub</strong></font> est un service web d'hébergement et de gestion de développement de logiciels, utilisant le logiciel de gestion de versions <a href="https://git-scm.com/" target="_blank">Git</a>. Il propose des comptes professionnels payants, ainsi que des comptes gratuits pour les projets de logiciels libres. Le site assure également un contrôle d'accès et des fonctionnalités destinées à la collaboration comme le suivi des bugs, les demandes de fonctionnalités, la gestion de tâches et un wiki pour chaque projet.
+</p>
 
 ## Securité
 
-KeePass
+<p style="text-align: justify">
+<a href="https://keepass.info/" target="_blank">
+<img align=left src="/pictures/logos/logo_keepass.png" width="55" height="55" hspace="20"></a>
+<font color="#238896"><strong>KeePass</strong></font> est un gestionnaire de mots de passe libre, permettant de sauvegarder un ensemble de mots de passe dans une base de données chiffrées sous la forme d'un seul fichier qui peut s’ouvrir avec un mot de passe principal. On peut synchroniser ce fichier en ligne (avec google drive via le plugin <a href="https://keepass.info/plugins.html#kpgsync" target="_blank">KPGoogleSync</a>), l'intégrer au navigateur (sur chrome via les extensions <a href="https://chrome.google.com/webstore/detail/keepasshttp-connector/dafgdjggglmmknipkhngniifhplpcldb" target="_blank">KeePassHttp-Connector</a> et <a href="https://keepass.info/plugins.html#keepasshttp" target="_blank">KeePassHttp</a>) ou encore sous android (<a href="https://play.google.com/store/apps/details?id=keepass2android.keepass2android&hl=fr" target="_blank">Keepass2Android</a>).
+</p>
 
-Pulse secure
+<p style="text-align: justify">
+<a href="https://www.teamviewer.com/" target="_blank">
+<img align=left src="/pictures/logos/logo_teamviewer.png" width="55" height="55" hspace="20"></a>
+<font color="#238896"><strong>TeamViewer</strong></font> est un logiciel gratuit permettant de se connecter à distance à des ordinateurs, des appareils mobiles et des dispositifs IdO partout et à tout moment. Pour un usage non professionnel, la version d'essai gratuite est suffisante. A noté que vous pouvez aussi partager un canal audio avec vos interlocuteurs. 
+</p>
 
 ## Communication
 
-Discord
+<p style="text-align: justify">
+<a href="https://discordapp.com/" target="_blank">
+<img align=left src="/pictures/logos/logo_discord.png" width="55" height="55" hspace="20"></a>
+Initalement pensé pour les joueurs et bonne alernative à Skype, <font color="#238896"><strong>Discord</strong></font> une application de discussions en ligne multi-plateforme. Elle de créer son propre serveur de discussion privé ou public, ainsi que plusieurs canaux de discussions (vocal ou texte), accessibles avec des droits que vous pourrez définir.
+</p>
 
-Thunderbird
+<p style="text-align: justify">
+<a href="https://www.thunderbird.net/" target="_blank">
+<img align=left src="/pictures/logos/logo_thunderbird.png" width="55" height="55" hspace="20"></a>
+<font color="#238896"><strong>Thunderbird</strong></font> est une application de messagerie facile à configurer et à personnaliser. Elle comporte de nombreuses fonctionnalités très pratiques, comme par exemple la sychronisation des agendas google (via le module <a href="https://addons.thunderbird.net/fr/thunderbird/addon/provider-for-google-calendar/" target="_blank">Fournisseur pour Google Agenda</a>) ou la gestion des contacts (avec le module <a href="https://addons.thunderbird.net/fr/thunderbird/addon/cardbook/" target="_blank">CardBook</a>).
+</p>
 
 ## Divers
 
-Vlc
+<p style="text-align: justify">
+<a href="https://www.videolan.org/" target="_blank">
+<img align=left src="/pictures/logos/logo_vlc.png" width="55" height="55" hspace="20"></a>
+<font color="#238896"><strong>VLC</strong></font> est un lecteur multimédia gratuit et libre et un système capable de lire la plupart des fichiers multimédias ainsi que des DVD, des CD Audio, des VCD, et divers protocoles de diffusion.
+</p>
 
-Winrar
+<p style="text-align: justify">
+<a href="https://www.win-rar.com/start.html?&L=10" target="_blank">
+<img align=left src="/pictures/logos/logo_winrar.png" width="55" height="55" hspace="20"></a>
+<font color="#238896"><strong>WinRAR</strong></font> est un logiciel propriétaire de compression de données. La version d'essai gratuite vous permet d'utiliser par défaut un algorithme de compression propriétaire, le RAR, mais il est également capable de compresser au format ZIP et d'extraire des archives aux formats (7z, ISO, JAR, TAR, etc.).
+</p>
 
-Endnote
+<p style="text-align: justify">
+<a href="https://evernote.com/intl/" target="_blank">
+<img align=left src="/pictures/logos/logo_evernote.png" width="55" height="55" hspace="20"></a>
+<font color="#238896"><strong>Evernote</strong></font> est un logiciel qui permet d’enregistrer des informations, sous forme de notes, images, vidéos, ou pages web. Il est utilisable dans plusieurs environnements, avec de nombreux appareils et/ou plateformes différentes. Il existe plusieurs format mais vous pouvez utiliser la version gratuite sans problème.
+</p>

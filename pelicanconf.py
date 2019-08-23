@@ -3,11 +3,15 @@
 from __future__ import unicode_literals
 
 AUTHOR = 'Mathieu Depetris'
-SITENAME = 'MathieuDepetris'
-SITEURL = ''
+#SITEURL = 'https://mathieudepetris.github.io/'
+#SITENAME = 'Mathieu Depetris\'s website'
+SITETITLE = 'MathieuDepetris'
+#SITESUBTITLE = 'Web Developer'
+#SITE_DESCRIPTION = ('')
 TIMEZONE = 'Europe/Paris'
 DEFAULT_DATE_FORMAT = '%a, %d %b %Y'
 DEFAULT_LANG = 'fr'
+OG_LOCALE  = 'fr_FR'
 LOCALE = 'fr_FR'
 DEFAULT_PAGINATION = 10
 
@@ -34,13 +38,13 @@ LINKS = (('Pelican', 'http://getpelican.com/'),
          ('You can modify those links in your config file', '#'),)
 
 # Social widget
-SOCIAL = (('Github', 'https://github.com/MathieuDepetris'),
-          ('Linkedin', 'https://www.linkedin.com/in/mathieu-depetris-ab3b3b90/'),
+SOCIAL = (('github', 'https://github.com/MathieuDepetris'),
+          ('linkedin', 'https://www.linkedin.com/in/mathieu-depetris-ab3b3b90/'),
           ('viadeo', 'http://fr.viadeo.com/fr/profile/mathieu.depetris'),
-          ('Facebook', 'https://www.facebook.com/MathieuDepetris'))
+          ('facebook', 'https://www.facebook.com/MathieuDepetris'),
+          ('envelope', 'mailto:mdepetris@live.fr'))
 
 # Plugins
-# PLUGIN_PATHS = ['C:\\ProgramData\\Anaconda3\\pkgs\\python-3.7.3-h8c8aaf0_1\\pelican-addon-clones\\pelican-plugins']
 PLUGIN_PATHS = ['plugins']
 PLUGINS = ['i18n_subsites', ]
 JINJA_ENVIRONMENT = {'extensions': ['jinja2.ext.i18n'],}
@@ -53,12 +57,36 @@ I18N_SUBSITES = {
     'LOCALE': 'en_UK'
   }
 }
-I18N_GETTEXT_LOCALEDIR = 'pelican-fh5co-marble/locale/'
-I18N_GETTEXT_DOMAIN = 'messages'
-I18N_GETTEXT_NEWSTYLE = True
-I18N_TEMPLATES_LANG = 'fr_FR'
+#I18N_GETTEXT_LOCALEDIR = 'pelican-fh5co-marble/locale/'
+#I18N_GETTEXT_DOMAIN = 'messages'
+#I18N_GETTEXT_NEWSTYLE = True
+I18N_TEMPLATES_LANG = 'fr'
 
-# theme and theme localization
+#AUTHORS_BIO = {
+#    "timothycrosley": {
+#        "name": "Timothy Crosley",
+#        "cover": "images/spring/trees.jpg",
+#        "image": "https://avatars1.githubusercontent.com/u/2090154?s=400&u=4f46538354444ce0a0d4d89cd676f769d7d846d3&v=4",
+#        "location": "Licton Springs, Seattle, WA",
+#        "bio": "During the day, I work at DomainTools, where I’m helping to develop predictive security solutions on top of truly large data sets. I can’t resist a good craft beer, a new board game, an arcade, or any food that contains peanut butter."
+#    },
+#    "amandacrosley": {
+#        "name": "Amanda Crosley",
+#        "cover": "images/spring/bird.jpg",
+#        "image": "images/amandacrosley.jpg",
+#        "location": "Licton Springs, Seattle, WA",
+#        "bio": "When I'm not mentoring the next generation of STEM leaders, urban hiking through Seattle or playing arcade/board games, you can find me @ Microsoft driving analytics for Bing Ads search advertising."
+#    },
+#    "janicelichtenwaldt": {
+#        "name": "Janice Lichtenwaldt",
+#        "cover": "images/spring/bird.jpg",
+#        "image": "images/JaniceLichtenwaldt.jpg",
+#        "location": "Licton Springs, Seattle, WA",
+#        "bio": "During the day, I am the CEO of I Am Virago where we coach folks to become more engaged and effective leaders. I’m a sucker for anything related to arts & crafts and women’s empowerment. I love music, sci-fi, my husband, and my dog…not necessarily in that order."
+#    }
+#}
+
+# Theme and theme localization
 THEME = 'pelican-fh5co-marble'
 
 # Navigation and homepage options
