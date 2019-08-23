@@ -4,6 +4,7 @@ from __future__ import unicode_literals
 
 AUTHOR = 'Mathieu Depetris'
 #SITEURL = 'https://mathieudepetris.github.io/'
+#SITEURL = 'http://localhost:8000/'
 #SITENAME = 'Mathieu Depetris\'s website'
 SITETITLE = 'MathieuDepetris'
 #SITESUBTITLE = 'Web Developer'
@@ -38,11 +39,15 @@ LINKS = (('Pelican', 'http://getpelican.com/'),
          ('You can modify those links in your config file', '#'),)
 
 # Social widget
-SOCIAL = (('github', 'https://github.com/MathieuDepetris'),
-          ('linkedin', 'https://www.linkedin.com/in/mathieu-depetris-ab3b3b90/'),
-          ('viadeo', 'http://fr.viadeo.com/fr/profile/mathieu.depetris'),
-          ('facebook', 'https://www.facebook.com/MathieuDepetris'),
-          ('envelope', 'mailto:mdepetris@live.fr'))
+SOCIAL = (
+  ('github', 'https://github.com/MathieuDepetris'),
+  ('linkedin', 'https://www.linkedin.com/in/mathieu-depetris-ab3b3b90/'),
+  ('facebook', 'https://www.facebook.com/MathieuDepetris'),
+  ('skype', "mdepetris@live.fr"),
+  ('mail', 'mdepetris@live.fr'),
+  ('viadeo', 'http://fr.viadeo.com/fr/profile/mathieu.depetris')
+)
+#          ('cover', 'mailto:mdepetris@live.fr'))
 
 # Plugins
 PLUGIN_PATHS = ['plugins']
