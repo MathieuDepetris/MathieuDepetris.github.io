@@ -18,7 +18,7 @@ Logiciel incontournable, <font color="#238896"><strong>R</strong></font> propose
 <p style="text-align: justify">
 <a href="https://www.zotero.org/" target="_blank">
 <img align=left src="/pictures/logos/logo_zotero.png" width="55" height="55" hspace="20"></a>
-<font color="#238896"><strong>Zotero</strong></font> est un logiciel de gestion de références gratuit, libre et open source. Il permet de gérer des données bibliographiques et peut s’intégrer facilement aux navigateurs ainsi que à la plupart des suites bureautiques.
+<font color="#238896"><strong>Zotero</strong></font> est un logiciel de gestion de références gratuit, libre et open source. <br>Il permet de gérer des données bibliographiques et peut s’intégrer facilement aux navigateurs ainsi que à la plupart des suites bureautiques.
 </p>
 
 ## Interfaces graphiques, éditeurs de texte et gestionnaire de paquets
@@ -102,7 +102,7 @@ Véritable référence, le logiciel gratuit <font color="#238896"><strong>Adobe 
 <p style="text-align: justify">
 <a href="https://www.gimp.org/" target="_blank">
 <img align=left src="/pictures/logos/logo_gimp.png" width="55" height="55" hspace="20"></a>
-Alternative à Photoshop, <font color="#238896"><strong>GIMP</strong></font> est un programme de créations graphiques et de retouches photos très puissant. Il comporte l’ensemble des outils nécessaires à la création de dessins et à l’amélioration d’un cliché.
+Alternative à Photoshop, <font color="#238896"><strong>GIMP</strong></font> est un programme de créations graphiques et de retouches photos très puissant. <br> Il comporte l’ensemble des outils nécessaires à la création de dessins et à l’amélioration d’un cliché.
 </p>
 
 ## Logiciel de gestion de versions
@@ -152,7 +152,7 @@ Initalement pensé pour les joueurs et bonne alernative à Skype, <font color="#
 <p style="text-align: justify">
 <a href="https://www.videolan.org/" target="_blank">
 <img align=left src="/pictures/logos/logo_vlc.png" width="55" height="55" hspace="20"></a>
-<font color="#238896"><strong>VLC</strong></font> est un lecteur multimédia gratuit et libre et un système capable de lire la plupart des fichiers multimédias ainsi que des DVD, des CD Audio, des VCD, et divers protocoles de diffusion.
+<font color="#238896"><strong>VLC</strong></font> est un lecteur multimédia gratuit et libre. <br>Il est capable de lire la plupart des fichiers multimédias ainsi que des DVD, des CD Audio, des VCD, et divers protocoles de diffusion.
 </p>
 
 <p style="text-align: justify">
