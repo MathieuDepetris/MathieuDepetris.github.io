@@ -1,10 +1,11 @@
-title: Mes expériences
+title: Expériences
 order: 2
 icon: icon-eye
 summary: Vous trouverez ici la liste et les références de mes expériences professionnelles.
 date: 2018-08-19
 lang: fr
 
+Si besoin, vous pouvez accéder à mon CV <a href="/documents/cv_fr_depetris.pdf" target="_blank">ici</a>.
 
 <p style="text-align: justify">
 <font color="#238896"><strong>2018 à Aujourd’hui – Data Analyst en halieute :</strong> Institut de Recherche pour le Développement – Station Ifremer Sète</font><br>
