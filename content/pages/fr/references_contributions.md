@@ -13,6 +13,12 @@ lang: fr
 
 ## Publications sans comité de lecture ou vulgarisations
 
+### 2019 :
+
+A faire
+
+### 2018 :
+
 A faire
 
 ## Projets
