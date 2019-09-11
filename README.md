@@ -65,7 +65,7 @@ Pour installer un thème (ici avec l'exemple du thème pelican-fh5co-marble disp
 
 Ouvrir un terminal git-bash puis se déplacer dans le dossier local du git (exemple ci-dessous à adapter) :
 
-    cd D:\\IRD\\4-Developpement\\4-Git\\MathieuDepetris.github.io
+    cd D:\\IRD\\04-Developpement\\04-Git\\MathieuDepetris.github.io
     # ou
     cd E:\\1-BibiCorp\\Travail\\MathieuDepetris.github.io
 
