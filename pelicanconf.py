@@ -42,12 +42,11 @@ LINKS = (('Pelican', 'http://getpelican.com/'),
 SOCIAL = (
   ('github', 'https://github.com/MathieuDepetris'),
   ('linkedin', 'https://www.linkedin.com/in/mathieu-depetris-ab3b3b90/'),
-  ('facebook', 'https://www.facebook.com/MathieuDepetris'),
-  ('skype', "mdepetris@live.fr"),
-  ('mail', 'mdepetris@live.fr'),
-  ('viadeo', 'http://fr.viadeo.com/fr/profile/mathieu.depetris')
+  #('viadeo', 'http://fr.viadeo.com/fr/profile/mathieu.depetris'),
+  ('skype', "https://join.skype.com/invite/dwotPkVYUPLD"),
+  ('mail', 'mailto:mdepetris@live.fr')
+  #('facebook', 'https://www.facebook.com/MathieuDepetris')
 )
-#          ('cover', 'mailto:mdepetris@live.fr'))
 
 # Plugins
 PLUGIN_PATHS = ['plugins']

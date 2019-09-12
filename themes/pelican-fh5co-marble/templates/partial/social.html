@@ -24,6 +24,15 @@
         {% elif 'travis-ci' in social.1%}
             <li><a href="{{ social.1 }}" alt="{{ social.0 }}"><i class="icon-spanner"></i></a></li>
 
+        {% elif 'viadeo' in social.1%}
+            <li><a href="{{ social.1 }}" alt="{{ social.0 }}"><i class="icon-leaf"></i></a></li>
+
+        {% elif 'skype' in social.1%}
+        <li><a href="{{ social.1 }}" alt="{{ social.0 }}"><i class="icon-skype"></i></a></li>
+
+        {% elif 'mail' in social.1%}
+        <li><a href="{{ social.1 }}" alt="{{ social.0 }}"><i class="icon-mail"></i></a></li>
+
         {% endif %}
     {% endfor %}
 </ul>

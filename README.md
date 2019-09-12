@@ -60,6 +60,8 @@ Pour installer un thème (ici avec l'exemple du thème pelican-fh5co-marble disp
     pelican-themes --install E:\\1-BibiCorp\\Travail\\MathieuDepetris.github.io\\themes\\pelican-fh5co-marble
     # Pour verifier les thèmes installés
     pelican-themes -v -l
+    # Pour supprimer un thème
+    pelican-themes --remove theme_name
 
 # Automatisation des tâches
 
