@@ -45,7 +45,6 @@ SOCIAL = (
   #('viadeo', 'http://fr.viadeo.com/fr/profile/mathieu.depetris'),
   ('skype', "https://join.skype.com/invite/dwotPkVYUPLD"),
   ('mail', 'mailto:mdepetris@live.fr')
-  #('facebook', 'https://www.facebook.com/MathieuDepetris')
 )
 
 # Plugins
