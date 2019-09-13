@@ -162,7 +162,10 @@ HERO = [
         'fr': 'Orque (<i>Orcinus orca</i>)', 
         'en': 'Orca (<i>Orcinus orca</i>)'
         },
-    'text': {},
+    'text': {
+        'fr': '&copy; BBC America', 
+        'en': '&copy; BBC America'
+        },
     'links': []
   },
   {
@@ -182,18 +185,6 @@ HERO = [
     'title': {
         'fr': 'Débarquement de thonidés aux Seychelles', 
         'en': 'Landing of tunas in Seychelles'
-        },
-    'text': {
-        'fr': '&copy; Mathieu Depetris', 
-        'en': '&copy; Mathieu Depetris'
-        },
-    'links': []
-  },
-  {
-    'image': '/pictures/background/background_6.jpg',
-    'title': {
-        'fr': 'Baleine à bosse (<i>Megaptera novaeangliae</i>) au large de La Réunion', 
-        'en': 'Humpback whale (<i>Megaptera novaeangliae</i>) in large of Reunion island'
         },
     'text': {
         'fr': '&copy; Mathieu Depetris', 
