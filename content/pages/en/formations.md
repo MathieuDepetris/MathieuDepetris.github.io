@@ -3,7 +3,7 @@ order: 1
 icon: icon-point-of-interest
 summary: Vous trouverez ici la liste des formations que j'ai suivies ainsi que les compétences associées.
 date: 2018-08-14
-lang: fr
+lang: en
 
 Si besoin, vous pouvez accéder à mon CV <a href="/documents/cv_fr_depetris.pdf" target="_blank">ici</a>.
 
