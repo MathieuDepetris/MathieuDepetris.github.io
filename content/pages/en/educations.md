@@ -1,4 +1,4 @@
-title: Education
+title: Educations
 order: 1
 icon: icon-point-of-interest
 summary: You will find here the list of education I have followed and the associated skills.
@@ -29,9 +29,9 @@ Bachelor's degree "Biologie des Organismes" <br> <a href="https://biologie-ecolo
 
 ## Complementary educations
 
-<font color="#238896">CAFSAN</font> (<font color="#238896">C</font>ertificat d’<font color="#238896">A</font>ptitude <font color="#238896">F</font>édéral de <font color="#238896">S</font>auvetage et d’<font color="#238896">A</font>ssistance <font color="#238896">N</font>autique) et <font color="#238896">BNSSA</font> (<font color="#238896">B</font>revet <font color="#238896">N</font>ational de <font color="#238896">S</font>écurité et de <font color="#238896">S</font>auvetage <font color="#238896">A</font>quatique)
+<font color="#238896">CAFSAN</font> (Federal Certificate for Nautical Rescue and Assistance) et <font color="#238896">BNSSA</font> (National Certificate of Aquatic Safety and Lifesaving)
 
-<font color="#238896">PSE2</font> (<font color="#238896">P</font>remiers <font color="#238896">S</font>ecours en <font color="#238896">E</font>quipe de niveau <font color="#238896">2</font>) et <font color="#238896">OPR</font> (formation <font color="#238896">OP</font>érateur <font color="#238896">R</font>adio)
+<font color="#238896">PSE2</font> (level 2 team first aid) et <font color="#238896">OPR</font> (Radio Operator Training)
 
 Level 2 of diving certification, initiator, nitrox and <font color="#238896">CAH</font> (french certificate classe <font color="#238896">OB</font>, more than 30 dives)
 
@@ -39,4 +39,4 @@ Licences <font color="#238896">offshore and inland waters</font>, driving licenc
 
 TOEIC level <font color="#238896">B2</font> (860/990)
 
-<font color="#238896">PMS</font> (<font color="#238896">S</font>uperior <font color="#238896">M</font>ilitary <font color="#238896">P</font>reparation) at 121st Train Regiment.
+<font color="#238896">PMS</font> (<font color="#238896">S</font>uperior <font color="#238896">M</font>ilitary <font color="#238896">P</font>reparation) at 121st French Train Regiment.

@@ -1,61 +1,61 @@
-title: work experiences
+title: Work experiences
 order: 2
 icon: icon-eye
-summary: ou will find here the list and the references of my professional experiences.
+summary: You will find here the list and the references of my professional experiences.
 date: 2020-02-03
 lang: en
 
 If need be, you can access my CV <a href="/documents/cv_fr_depetris.pdf" target="_blank">here</a>.
 
 <p style="text-align: justify">
-<font color="#238896"><strong>2018 à Aujourd’hui – Data Analyst en halieute :</strong> Institut de Recherche pour le Développement – Station Ifremer Sète</font><br>
-Pour en savoir plus cliquez <a href="https://www.ob7.ird.fr/" target="_blank">ici</a>.
+<font color="#238896"><strong>2018 until now – Fisheries data analyst:</strong> French National Research Institute for Sustainable Development – Ifremer Sète</font><br>
+For more information click <a href="https://www.ob7.ird.fr/" target="_blank">here</a>.
 </p>
 
 <p style="text-align: justify">
-<font color="#238896"><strong>2016 à 2018 – Data-manager :</strong> Institut du Cancer de Montpellier – Montpellier</font><br>
-Création, administration et gestion de bases de données pour des essais cliniques en oncologie.<br>
-<font color="#238896">Résultats :</font> utilisation du logiciel Ennov Clinical. Conception de «Case Report Form» (design de CRF et eCRF) selon les standards en vigueur. Rédaction des guides de saisie. Programmation des plans de validation / tests d’incohérences. Emission/intégration des «Data Clarification Form» (DCF). Codage via le dictionnaire MEDDRA. Elaboration de programmes SAS afin d’automatiser et d’optimiser certaines taches/contrôles. Participation au processus de certification Qualité ISO 9001.
+<font color="#238896"><strong>2016 to 2018 – Database management:</strong> Montpellier Cancer Institute – Montpellier</font><br>
+Creation, administration and management of databases for clinical trials in oncology.<br>
+<font color="#238896">Results:</font> use of Ennov Clinical software. Case Report Form design (CRF and eCRF design) according to current standards. Writing of data entry guides. Programming of validation plans / inconsistency tests. Issuance/integration of Data Clarification Forms (DCF). Coding via the MEDDRA dictionary. Development of SAS programs to automate and optimize certain tasks/controls. Participation in the ISO 9001 quality certification process.
 </p>
 
 <p style="text-align: justify">
-<font color="#238896"><strong>2015 à 2016 – Ingénieur méthode :</strong> Agence des aires marines protégées – Port-Vendres</font><br>
-Conceptualisation et opérationnalisation d’indicateurs pour les différents thématiques et orientations de gestion du Parc naturel marin du golfe du Lion.<br>
-<font color="#238896">Résultats :</font> construction d’une base de données pour l’Agence (projet pilote) et formation des agents aux procédures de stockage et d’administration de données, développement de supports méthodologiques pour guider l’élaboration des indicateurs, remodelage du tableau de bord du Parc, construction et test des indicateurs in situ.
+<font color="#238896"><strong>2015 to 2016 – Project engineer:</strong> French Marine Protected Areas Agency – Port-Vendres</font><br>
+Conceptualization and operationalization of indicators for the different themes and management orientations of the Gulf of Lion Marine Natural Park.<br>
+<font color="#238896">Results:</font> Construction of a database for the Agency (pilot project) and training of staff in data storage and administration procedures, development of methodological supports to guide the development of indicators, remodelling of the Park's dashboard, construction and testing of indicators in situ.
 </p>
 
 <p style="text-align: justify">
-<font color="#238896"><strong>2014 à 2015 – Ingénieur Statisticien :</strong> Ifremer Laboratoire de Biologie Halieutique – Brest</font><br>
-Analyse, traitement et mise à disposition des variables transversales (capacité, effort de pêche et débarquements) pour l’ensemble des différentes actions du Système d’Informations Halieutiques de l’Ifremer.<br>
-<font color="#238896">Résultats :</font> perfectionnement et automatisation des plans d’échantillonnage de l’action ObsDEB, optimisation des extrapolations (intégration des probabilités de sondage, spécification d’un format d’export, extraction des données depuis Harmonie). Création de procédures d’analyse, de controle et de validation statistiques des données. Programmation d’algorithmes, notamment pour procéder au redressement d’un échantillon.
+<font color="#238896"><strong>2014 to 2015 – Statistician engineer:</strong> Ifremer Laboratory of Fisheries Biology – Brest</font><br>
+Analysis, processing and provision of transverse variables (capacity, fishing effort and landings) for all the different actions of Ifremer's Fisheries Information System.<br>
+<font color="#238896">Results:</font> improvement and automation of ObsDEB sampling plans, optimization of extrapolations (integration of sampling probabilities, specification of an export format, data extraction from Harmony). Creation of procedures for analysis, control and statistical validation of data. Programming of algorithms, in particular to proceed to the adjustment of a sample.
 </p>
 
 <p style="text-align: justify">
-<font color="#238896"><strong>2014 – Webdesigner & Data-manager :</strong> VIVAGRI’R – Rennes</font><br>
-Création du fichier client et du site internet de la société (spécialisée dans l’entomologie et la lutte biologique).<br>
-<font color="#238896">Résultats :</font> mise en place d’un moteur de recherche clients/commandes et du site internet.
+<font color="#238896"><strong>2014 – Webdesigner & Data-manager:</strong> VIVAGRI’R – Rennes</font><br>
+Creation of the customer file and website of the company (specialized in entomology and biological control).<br>
+<font color="#238896">Results:</font> implementation of a customer/order search engine and website.
 </p>
 
 <p style="text-align: justify">
-<font color="#238896"><strong>2013 – Chargé d’études :</strong> SupAgro – Montpellier</font><br>
-Réalisation des analyses statistiques portant sur une étude de nutrition.<br>
-<font color="#238896">Résultats :</font> rédaction d’un rapport statistique pour un article scientifique (<a href="/documents/articles/grefeuille_and_al_2015.pdf" target="_blank">Grefeuille & al. 2015</a>).
+<font color="#238896"><strong>2013 – Research Officer:</strong> SupAgro – Montpellier</font><br>
+Carrying out statistical analyses of a nutrition study.<br>
+<font color="#238896">Results:</font> writing a statistical report for a scientific article (<a href="/documents/articles/grefeuille_and_al_2015.pdf" target="_blank">Grefeuille & al. 2015</a>).
 </p>
 
 <p style="text-align: justify">
-<font color="#238896"><strong>2013 – Chargé d’études :</strong> Agence pour la Recherche et la Valorisation Marines – La Réunion</font><br>
-Définition de bio-indicateurs permettant d’évaluer l’état de santé des récifs coralliens (stage).<br>
-<font color="#238896">Résultats :</font> construction d’une base de données et réalisation d’un article scientifique (<a href="/documents/articles/zubia_and_al_2018.pdf" target="_blank">Zubia & al. 2018</a>).
+<font color="#238896"><strong>2013 – Research Officer:</strong> Agency for Marine Research and Development – La Réunion</font><br>
+Definition of bio-indicators to assess coral reef health status (stage).<br>
+<font color="#238896">Results:</font> construction of a database and production of a scientific article (<a href="/documents/articles/zubia_and_al_2018.pdf" target="_blank">Zubia & al. 2018</a>).
 </p>
 
 <p style="text-align: justify">
-<font color="#238896"><strong>2012 – Chargé d’études :</strong> Laboratoire Environnement/Ressources du Languedoc-Roussillon – Station Ifremer Sète</font><br>
-Elaboration d’une synthèse sur le management et la gestion intégrée de la zone côtière (stage).<br>
-<font color="#238896">Résultats :</font> réalisation d’un <a href="/documents/pdfs/rapport_synthese_lagune_bages_sigean.pdf" target="_blank">document de communication</a>.
+<font color="#238896"><strong>2012 – Research Officer:</strong> Languedoc-Roussillon Environment/Resources Laboratory – Ifremer Sète</font><br>
+Elaboration of a synthesis on management and integrated management of the coastal zone (internship).<br>
+<font color="#238896">Results:</font> realization of a <a href="/documents/pdfs/rapport_synthese_lagune_bages_sigean.pdf" target="_blank">communication document</a>.
 </p>
 
 <p style="text-align: justify">
-<font color="#238896"><strong>2011 – Responsable de la création d’une base de données :</strong> Association A.I.L.E.R.O.N.S – Montpellier</font><br>
-Conception d’une base de données sur les élasmobranches de mer Méditerranée Française (stage).<br>
-<font color="#238896">Résultats :</font> mise en place de la base de données et création d’un système de suivis et d’intégration des futures observations.
+<font color="#238896"><strong>2011 – Responsible for the creation of a database:</strong> Association A.I.L.E.R.O.N.S – Montpellier</font><br>
+Design of a database on elasmobranches of the French Mediterranean Sea (internship).<br>
+<font color="#238896">Results:</font> setting up the database and creating a system for monitoring and integrating future observations.
 </p>

@@ -1,17 +1,17 @@
-title: Références et contributions
+title: References and contributions
 order: 3
 icon: icon-eye
-summary: Vous trouverez ici mes références et mes contributions.
-date: 2018-08-19
-lang: fr
+summary: Here you will find my references and contributions.
+date: 2020-02-03
+lang: en
 
-## Publications avec comité de lecture
+## Refereed publications
 
 <p style="text-align: justify">
 <a href="/documents/articles/zubia_and_al_2018.pdf" target="_blank">Zubia, M., Depetris, M., Flores, O., Turquet, J., Cuet, P., 2018. Macroalgae as a tool for assessing the ecological status of coral reefs under the Water Framework Directive: A case study on the reef flats of La Réunion (Indian Ocean). Marine Pollution Bulletin 137, 339–351.</a><a href="https://doi.org/10.1016/j.marpolbul.2018.10.029" target="_blank">https://doi.org/10.1016/j.marpolbul.2018.10.029</a>.
 </p>
 
-## Publications sans comité de lecture ou vulgarisations
+## Non-refereed publications or outreach
 
 ### 2018
 
@@ -25,14 +25,14 @@ lang: fr
 
 <a href="https://www.iotc.org/documents/WPTT/20/36" target="_blank">Katara, I., Gaertner, D., Marsac, F., Grande, M., Kaplan, D., Guéry, L., Depetris, M., Duparc, A., Floch, L., Lopez, J., Abascal, F., 2018. Standardisation of yellowfin tuna CPUE for the EU purse seine fleet operating in the Indian Ocean. Presented at the 20th working party on tropical tunas, IOTC, Mahé, Seychelles.</a>
 
-## Projets
+## Projects
 
 <p style="text-align: justify">
 <font color="#238896"><strong>RECOLAPE (MARE/2016/22):</font></strong> strengthening <font color="#238896">RE</font>gional <font color="#238896">CO</font>operation in the area of <font color="#238896">LA</font>rge <font color="#238896">PE</font>lagic fishery data collection.<br>
-Co-coordinateur du WP2 et coordinateur du WP5. Rapport final disponible <a href="/documents/pdfs/final_report_recolape.pdf" target="_blank">ici</a>.
+Co-coordinator of WP2 and coordinator of WP5. Final report available <a href="/documents/pdfs/final_report_recolape.pdf" target="_blank">here</a>.
 </p>
 
-## Encadrements et enseignements
+## Supervision and teaching
 
 <p style="text-align: justify">
 <a href="/documents/pdfs/aragnov_rapport_stage_2019.pdf" target="_blank">Aragno, V., 2019. Estimation des biais de déclaration des thonidés dans les livres de bord pour la pêche à la senne en milieu pélagique tropical. Rapport de stage. 38 pages.
