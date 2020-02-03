@@ -15,8 +15,6 @@ lang: fr
 
 ### 2018
 
-<p></p>
-
 <a href="http://hal.ird.fr/ird-02132072" target="_blank">Bach, P., Cauquil, P., Depetris, M., Duparc, A., Floch, L., Lebranchu, J., Sabarros, P., 2018. Procédures d’échantillonnage au port des thonidés tropicaux dans les océans atlantique et indien.</a>
 
 <a href="https://www.iotc.org/documents/WPTT/20/16" target="_blank">Duparc, A., Cauquil, P., Depetris, M., Dewals, P., Floch, L., Gaertner, D., Herve, A., Lebranchu, J., Marsac, F., Bach, P., 2018. Assessment of accuracy in processing purse seine tropical tuna catches with the T3 methodology using French fleet data. Presented at the 20th working party on tropical tunas, IOTC, Mahé, Seychelles.</a>
@@ -31,7 +29,7 @@ lang: fr
 
 <p style="text-align: justify">
 <font color="#238896"><strong>RECOLAPE (MARE/2016/22):</font></strong> strengthening <font color="#238896">RE</font>gional <font color="#238896">CO</font>operation in the area of <font color="#238896">LA</font>rge <font color="#238896">PE</font>lagic fishery data collection.<br>
-Co-coordinateur du WP2 et coordinateur du WP5.
+Co-coordinateur du WP2 et coordinateur du WP5. Rapport final disponible <a href="/documents/pdfs/final_report_recolape.pdf" target="_blank">ici</a>.
 </p>
 
 ## Encadrements et enseignements

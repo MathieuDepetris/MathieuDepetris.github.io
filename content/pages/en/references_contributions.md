@@ -3,7 +3,7 @@ order: 3
 icon: icon-eye
 summary: Vous trouverez ici mes références et mes contributions.
 date: 2018-08-19
-lang: en
+lang: fr
 
 ## Publications avec comité de lecture
 
@@ -14,8 +14,6 @@ lang: en
 ## Publications sans comité de lecture ou vulgarisations
 
 ### 2018
-
-<p></p>
 
 <a href="http://hal.ird.fr/ird-02132072" target="_blank">Bach, P., Cauquil, P., Depetris, M., Duparc, A., Floch, L., Lebranchu, J., Sabarros, P., 2018. Procédures d’échantillonnage au port des thonidés tropicaux dans les océans atlantique et indien.</a>
 
@@ -31,7 +29,7 @@ lang: en
 
 <p style="text-align: justify">
 <font color="#238896"><strong>RECOLAPE (MARE/2016/22):</font></strong> strengthening <font color="#238896">RE</font>gional <font color="#238896">CO</font>operation in the area of <font color="#238896">LA</font>rge <font color="#238896">PE</font>lagic fishery data collection.<br>
-Co-coordinateur du WP2 et coordinateur du WP5.
+Co-coordinateur du WP2 et coordinateur du WP5. Rapport final disponible <a href="/documents/pdfs/final_report_recolape.pdf" target="_blank">ici</a>.
 </p>
 
 ## Encadrements et enseignements
