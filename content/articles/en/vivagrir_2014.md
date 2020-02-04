@@ -1,23 +1,23 @@
-title: Site internet et data de la société VIVAGRI'R
+title: Website and data of the company VIVAGRI'R
 image: /pictures/portfolio/vivagrir_2014.jpg
-summary: Création du site internet et du fichier client de la société VIVAGRI’R.
+summary: Creation of VIVAGRI'R's website and customer file.
 Author: Depetris M.
 date: 2019-09-11
 lang: en
 
-## Création du site internet et du fichier client de la société VIVAGRI’R
+## Creation of VIVAGRI'R's website and customer file
 
-<font color="#238896"><strong>Structure :</strong></font> Entreprise VIVAGRI'R
-<br><font color="#238896"><strong>Date :</strong></font> Avril 2014
+<font color="#238896"><strong>Structure:</strong></font> Company VIVAGRI'R
+<br><font color="#238896"><strong>Date:</strong></font> April 2014
 
 <p style="text-align: justify">
-A travers les activités d’expertise et de conseil, la société VIVAGRI’R, a pour principaux objectifs de mettre en place des solutions de lutte contre les insectes nuisibles par des méthodes respectueuses de l’environnement, mais aussi de valoriser et favoriser les populations d’insectes bénéfiques.
+Through expertise and consulting activities, VIVAGRI'R's main objectives are to implement pest control solutions using methods that respect the environment, but also to promote and encourage beneficial insect populations.
 </p>
 
 <p style="text-align: justify">
-Dans un context mondial ou l’on cherche à limité les conséquences des changements climatiques et des pressions antropiques, les méthodes naturelles (comme la lutte biologique) se révèlent être des solutions tout aussi efficace que les composés chimiques et permettent une utilisation et une gestion durable des écosystèmes associés.
+In a global context where the consequences of climate change and anthropogenic pressures are being addressed, natural methods (such as biological control) are proving to be just as effective solutions as chemical compounds and allow for the sustainable use and management of associated ecosystems.
 </p>
 
 <p style="text-align: justify">
-La première partie de mon travail au sein de cette société a été tout d’abord de concevoir l’architecture et le design du site internet, afin de lui permettre d’être visible et accessible sur le web. La seconde partie était dans un premier temps de concevoir une base de données des nombreux clients, et dans un second temps permettre d’avoir un gestion interactive et dynamique de cette base (par l’intermédiaire de la création d’un moteur de recherche et de modification).
+The first part of my work in this company was first of all to conceive the architecture and design of the website, to allow it to be visible and accessible on the web. The second part was firstly to design a database of the numerous customers, and secondly to allow an interactive and dynamic management of this database (through the creation of a search and modification engine).
 </p>

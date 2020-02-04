@@ -69,7 +69,7 @@ Ouvrir un terminal git-bash puis se déplacer dans le dossier local du git (exem
 
     cd D:\\IRD\\developpement\\04_git\\MathieuDepetris.github.io
     # ou
-    cd E:\\1-BibiCorp\\Travail\\MathieuDepetris.github.io
+    cd R:\\travail\\MathieuDepetris.github.io
 
 Pour générer le contenu et le prévisualiser (http://localhost:8000/) :
 

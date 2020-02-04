@@ -1,31 +1,31 @@
-title: Gestion intégrée
+title: Integrated Management
 image: /pictures/portfolio/ifremer_2012.jpg
-summary: La Lagune de Bages-Sigean, un exemple de gestion intégrée d’une lagune Méditerranéenne.
+summary: The Bages-Sigean Lagoon, an example of integrated management of a Mediterranean lagoon.
 Author: Depetris M.
 date: 2019-09-12
 lang: en
 
-## La Lagune de Bages-Sigean, un exemple de gestion intégrée d’une lagune Méditerranéenne
+## The Bages-Sigean Lagoon, an example of integrated management of a Mediterranean lagoon.
 
-<font color="#238896"><strong>Structure :</strong></font> Station Ifremer de Sète
-<br><font color="#238896"><strong>Date :</strong></font> Mars à août 2012 
+<font color="#238896"><strong>Structure:</strong></font> Ifremer station of Sète
+<br><font color="#238896"><strong>Date:</strong></font> March to August 2012 
 
 <p style="text-align: justify">
-Crée en 1984, l’Ifremer contribue, par ses travaux et expertises, à la connaissance des océans et de leurs ressources, à la surveillance du milieu marin et du littoral et au développement durable des activités maritimes.
+Created in 1984, Ifremer contributes, through its work and expertise, to the knowledge of the oceans and their resources, the monitoring of the marine and coastal environment and the sustainable development of maritime activities.
 </p>
 
 <p style="text-align: justify">
-Aujourd’hui, le renforcement de la réglementation concernant la gestion de l’eau impose de déterminer l’intégrité écologique des eaux de surface. Mais comment évaluer et atteindre ce bon état écologique ? Comment gérer et si nécessaire restaurer les différents compartiments de ces masses d’eau ?
+Today, the strengthening of water management regulations requires the determination of the ecological integrity of surface waters. But how can this good ecological status be assessed and achieved? How can the different compartments of these bodies of water be managed and, if necessary, restored?
 </p>
 
 <p style="text-align: justify">
-Plusieurs approches ont été proposées par la communauté scientifique comme l’approche DPSIR (Drivers, Pressures, State, Impact, Responses) qui permet de conceptualiser un écosystème, et qui s’intègre dans les processus de Gestion Intégrée des Zones Côtières (GIZC) reconnu comme « le processus le plus approprié pour traiter à long terme les problématiques». Mais existe-t-il des exemples de telles applications ? Comment mettre en place ces méthodes qui peuvent se révéler complexes ? Et surtout avec qui les mettre en place ?
+Several approaches have been proposed by the scientific community, such as the DPSIR (Drivers, Pressures, State, Impact, Responses) approach, which allows for the conceptualization of an ecosystem, and which is integrated into the Integrated Coastal Zone Management (ICZM) processes recognized as "the most appropriate process for dealing with issues in the long term". But are there examples of such applications? How can these methods, which can be complex, be implemented? And above all, with whom should they be implemented?
 </p>
 
 <p style="text-align: justify">
-Dans le but d’améliorer la compréhension de ces notions et d’apporter des éléments de réponses à ces questions, j’ai réalisé un rapport synthétique durant un stage de 6 mois au sein du laboratoire Environnement Ressource de l’Ifremer de Sète. Il porte sur une lagune du Languedoc-Roussillon, l’étang de Bages-Sigean, sur laquelle des successions d’actions et de processus ont permis de suivre "l’état écologique" et d’amélioration de l’état de plusieurs de ces compartiments, notamment vis-à-vis de l’eutrophisation. Ce retour d’expérience s’intègre dans une approche de gestion intégrée et est destiné à toutes personnes souhaitant voir un exemple de GIZC. Il permet de montrer très clairement que seule la coopération de tous les usagers d’un écosystème permet une gestion efficace et durable de celui-ci.
+In order to improve the understanding of these concepts and to provide some answers to these questions, I produced a summary report during a 6-month internship at the Ifremer's Resource Environment Laboratory in Sète. It deals with a lagoon in Languedoc-Roussillon, the Bages-Sigean lagoon, where successive actions and processes made it possible to monitor the "ecological state" and improvement of the state of several of these compartments, particularly with regard to eutrophication. This feedback is part of an integrated management approach and is intended for anyone wishing to see an example of ICZM. It makes it very clear that only the cooperation of all the users of an ecosystem allows its efficient and sustainable management.
 </p>
 
 <p style="text-align: justify">
-Vous pouvez trouver mon rapport de stage <a href="/documents/pdfs/rapport_depetris_ifremer_2012.pdf" target="_blank">ici</a> ainsi qu'un document de communication réalisé durant ce stage <a href="/documents/pdfs/rapport_synthese_lagune_bages_sigean.pdf" target="_blank">ici</a>.
+You can find my internship report <a href="/documents/pdfs/rapport_depetris_ifremer_2012.pdf" target="_blank">here</a> as well as a communication document produced during this internship <a href="/documents/pdfs/rapport_synthese_lagune_bages_sigean.pdf" target="_blank">here</a>.
 </p>

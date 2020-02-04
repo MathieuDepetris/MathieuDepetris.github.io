@@ -1,31 +1,31 @@
-title: Bioindicateurs d’eutrophisation pour les lagons de La Réunion
+title: Eutrophication bioindicators for Reunion's lagoons
 image: /pictures/portfolio/arvam_2013.jpg
-summary: Définition de bioindicateurs d’eutrophisation (coraux, algues) pour les lagons de La Réunion.
+summary: Definition of eutrophication bioindicators (corals, algae) for the lagoons of Reunion Island.
 Author: Depetris M.
 date: 2020-01-28
 lang: en
 
-## Définition de bioindicateurs d’eutrophisation (coraux, algues) pour les lagons de La Réunion
+## Definition of eutrophication bioindicators (corals, algae) for the lagoons of Reunion Island
 
-<font color="#238896"><strong>Structure :</strong></font> Association ARVAM (Agence pour la Recherche et la VAlorisation Marines)
-<br><font color="#238896"><strong>Date :</strong></font> Fevrier-Aout 2013
+<font color="#238896"><strong>Structure:</strong></font> ARVAM Association (Agency for Marine Research and Exploration)
+<br><font color="#238896"><strong>Date:</strong></font> February-August 2013
 
 <p style="text-align: justify">
-L’ARVAM (Agence pour la Recherche et la Valorisation Marines) est une structure scientifique créée en 1991 à La Réunion pour assurer un relais entre la recherche et les gestionnaires-décideurs en matière de gestion et de conservation des ressources côtières et marines notamment dans l’Océan Indien.
+ARVAM (Agence pour la Recherche et la Valorisation Marines) is a scientific structure created in 1991 in Reunion Island to act as a relay between research and managers-decision-makers in the field of management and conservation of coastal and marine resources, particularly in the Indian Ocean.
 </p>
 
 <p style="text-align: justify">
-La mise en œuvre de la Directive Cadre sur l’Eau (DCE) dans les départements d’Outre-Mer est confrontée à plusieurs interrogations, notamment en raison des particularités des écosystèmes qui les composent. Dans le cas de l’île de La Réunion, des études ont mis en évidence un enrichissement « chronique » en sels nutritifs au niveau de la côte Ouest de l’île, entrainant la dégradation des écosystèmes récifaux.
+The implementation of the Water Framework Directive (WFD) in the Overseas Departments is facing several questions, especially because of the particularities of the ecosystems which make up these departments. In the case of Reunion Island, studies have highlighted a "chronic" enrichment in nutrient salts on the West coast of the island, leading to the degradation of reef ecosystems.
 </p>
 
 <p style="text-align: justify">
-Mon travail s’intégrait dans le programme EUTROLAG, initié fin 2010, qui avait pour but d’appréhender ce phénomène d’enrichissement en nutriments dans son ensemble, afin de permettre d’établir des mesures de gestion en conséquence. Mon objectif était donc de définir des bioindicateurs, et d’évaluer leurs pertinences au regard des pressions anthropiques ayant le plus d’impacts sur le milieu récifal.
+My work was part of the EUTROLAG programme, initiated at the end of 2010, which aimed to apprehend this nutrient enrichment phenomenon as a whole, in order to enable management measures to be established accordingly. My objective was therefore to define bioindicators, and to assess their relevance with regard to the anthropogenic pressures having the greatest impact on the reef environment.
 </p>
 
 <p style="text-align: justify">
-Des analyses descriptives réalisées sur le compartiment hydrologique ont permis de construire des groupes de stations hiérarchisées en fonction d’un gradient d’apport terrigène. Des analyses discriminantes (AFD et la nouvelle méthode de discrimination multi-tableaux : STATIS-LDA) ont été appliquées aux données des compartiments biologiques (ichtyologique, algal et benthique), ce qui a permis de mettre en évidence 38 variables permettant de discriminer les stations en fonction du gradient d’apport terrigène. Plusieurs variables ont ensuite été sélectionnées en fonction de leur intérêt écologique, et seront testées pendant 5 ans au sein du prochain plan de gestion de la DCE (2014-2019). Cela permettra à terme d’élaborer des indicateurs pertinents qui permettront de quantifier « l’état de santé » des écosystèmes coralliens et d’entreprendre des actions de gestions et protection de ces milieux fragiles.
+Descriptive analyses carried out on the hydrological compartment made it possible to construct groups of stations hierarchically based on a terrigenous input gradient. Discriminant analyses (AFD and the new multi-table discrimination method: STATIS-LDA) were applied to the data from the biological compartments (ichthyological, algal and benthic), which revealed 38 variables that made it possible to discriminate stations according to the terrigenous input gradient. Several variables were then selected according to their ecological interest, and will be tested for 5 years within the next WFD management plan (2014-2019). This will eventually enable the development of relevant indicators to quantify the "health status" of coral ecosystems and to undertake actions for the management and protection of these fragile environments.
 </p>
 
 <p style="text-align: justify">
-Vous pouvez trouver mon rapport de stage <a href="/documents/pdfs/rapport_depetris_arvam_2013.pdf" target="_blank">ici</a> ainsi que l'article scientifique associé <a href="/documents/articles/zubia_and_al_2018.pdf" target="_blank">ici</a>.
+You can find my internship report <a href="/documents/pdfs/rapport_depetris_arvam_2013.pdf" target="_blank">here</a> as well as the associated scientific paper <a href="/documents/articles/zubia_and_al_2018.pdf" target="_blank">here</a>.
 </p>

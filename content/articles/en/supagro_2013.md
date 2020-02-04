@@ -1,31 +1,31 @@
-title: Statistiques agroalimentaires
+title: Agri-food Statistics
 image: /pictures/portfolio/supagro_2013.jpg
-summary: Etude portant sur l'index glycémique et insulinémique de pâtes alimentaires mixtes « céréale-légumineuse » et l'effet de l’incorporation de légumineuse et de la température de séchage des pâtes.
+summary: Study on the glycemic and insulinemic index of mixed "cereal-legume" pasta and the effect of legume incorporation and pasta drying temperature.
 Author: Depetris M.
 date: 2019-09-11
 lang: en
 
-## Création du site internet et du fichier client de la société VIVAGRI’R
+## Creation of VIVAGRI'R's website and customer file
 
-<font color="#238896"><strong>Structure :</strong></font> Montpellier SupAgro
-<br><font color="#238896"><strong>Date :</strong></font> Décembre 2013
+<font color="#238896"><strong>Structure:</strong></font> Montpellier SupAgro
+<br><font color="#238896"><strong>Date:</strong></font> December 2013
 
 <p style="text-align: justify">
-L’Unité Mixte de Recherches Ingénierie des Agro-polymères et Technologies Émergentes (UMR IATE) est une unité constituée d’équipes de l’INRA, du CIRAD, de l’Université Montpellier II et de SupAgro. Elle a pour objectif général de contribuer à l’amélioration des connaissances sur les fonctionnalités des produits végétaux et de leurs constituants en vue d’augmenter leurs performances tant pour des usages alimentaires que non alimentaires.
+The Mixed Research Unit in Agro-polymer Engineering and Emerging Technologies (UMR IATE) is a unit made up of teams from INRA, CIRAD, the University of Montpellier II and SupAgro. Its general objective is to contribute to the improvement of knowledge on the functionalities of plant products and their constituents in order to increase their performance for both food and non-food uses.
 </p>
 
 <p style="text-align: justify">
-L’émergence des maladies chroniques liées à l’alimentation – obésité, diabète non insulino-dépendant, maladies cardio-vasculaires, certains cancers – devient un sujet majeur de préoccupation dans beaucoup de sociétés en développement. Une véritable épidémie de maladies conduisant à une morbidité accrue et coûteuse, et à une surmortalité précoce à l’âge adulte, s’amorce donc pour les prochaines décennies dans l’ensemble du monde. L’enrayement des maladies nutritionnelles est donc un enjeu de santé publique.
+The emergence of diet-related chronic diseases - obesity, non-insulin-dependent diabetes, cardiovascular disease, some cancers - is becoming a major concern in many developing societies. A veritable epidemic of diseases leading to increased and costly morbidity and early excess mortality in adulthood is therefore set to begin in the coming decades throughout the world. The eradication of nutritional diseases is therefore a public health issue.
 </p>
 
 <p style="text-align: justify">
-La pâte alimentaire mixte, blé dur-légumineuse (lentilles, fèves, pois, pois cassés ou pois-chiches) est un mélange intime de deux catégories d’aliments très représentés dans la diète méditerranéenne, dont les bénéfices santé sont mis en évidence par de nombreuses études épidémiologiques. Les chercheurs du projet financé par l’Agence Nationale de la Recherche « Pastaleg » ont démontré l’influence de la structure de l’aliment sur ses qualités nutritionnelles et la faisabilité technologique de l’incorporation d’une proportion élevée (35%) de légumineuses dans une pâte alimentaire. Les pâtes « céréale-légumineuse » obtenues sont riches en protéines, en fibres, vitamines et minéraux. Elles sont pauvres en lipides et en alpha-galactosides, composés responsables de flatulences. Un séchage adapté de la pâte mixte permet de réduire sa teneur en glucose rapidement disponible. L’ index glycémique de ces pâtes mixtes devrait être plus bas que celui déjà intéressant de la pâte 100% blé dur.
+Mixed pasta, durum wheat-legume wheat (lentils, beans, peas, split peas or chickpeas) is an intimate blend of two food categories that are highly represented in the Mediterranean diet, whose health benefits have been demonstrated by numerous epidemiological studies. The researchers of the project financed by the National Research Agency "Pastaleg" have demonstrated the influence of the structure of the food on its nutritional qualities and the technological feasibility of incorporating a high proportion (35%) of legumes in a paste. The "cereal-legume" pasta obtained is rich in protein, fibre, vitamins and minerals. They are low in lipids and alpha-galactosides, compounds responsible for flatulence. Appropriate drying of the mixed dough reduces its rapidly available glucose content. The glycemic index of these mixed doughs should be lower than that of the already interesting 100% durum wheat dough.
 </p>
 
 <p style="text-align: justify">
-L’objectif de ce travail était donc de réaliser les analyses statistiques permettant de comparer 3 types de pâtes alimentaires, en vue  de « sélectionner » les pâtes ayant le meilleur rapport « effets bénéfiques/acceptation du consommateur ».
+The objective of this work was therefore to carry out statistical analyses to compare 3 types of pasta, with a view to "selecting" the pasta with the best "beneficial effects/consumer acceptance" ratio.
 </p>
 
 <p style="text-align: justify">
-L’article scientifique qui en résulte est disponible <a href="/documents/articles/grefeuille_and_al_2015.pdf" target="_blank">ici</a>.
+The resulting scientific paper is available <a href="/documents/articles/grefeuille_and_al_2015.pdf" target="_blank">here</a>.
 </p>

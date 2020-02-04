@@ -1,27 +1,27 @@
-title: Création d'une base de données sur les élasmobranches
+title: Creation of an Elasmobranch Database
 image: /pictures/portfolio/ailerons_2011.jpg
-summary: Conception d’une base de données sur les élasmobranches de mer Méditerranée Française.
+summary: Design of a database on elasmobranches in the French Mediterranean Sea.
 Author: Depetris M.
-date: 2019-08-13
+date: 2020-02-04
 lang: en
 
-## Conception d’une base de données sur les élasmobranches de mer Méditerranée Française
+## Design of a database on elasmobranches in the French Mediterranean Sea
 
-<font color="#238896"><strong>Structure :</strong></font> Association AILERONS
-<br><font color="#238896"><strong>Date :</strong></font> Mars-Mai 2011
+<font color="#238896"><strong>Structure:</strong></font> AILERONS association
+<br><font color="#238896"><strong>Date:</strong></font> March-May 2011
 
 <p style="text-align: justify">
-Créée en 2006, l’association AILERONS a pour premier objectif l’étude des requins et des raies (les élasmobranches) au sein des eaux méditerranéennes françaises pour une meilleure connaissance et la conservation des espèces. Elle a initié plusieurs projets à cet effet, notamment le projet diable de mer qui vise à recenser et localiser les individus de Diable de mer Méditerranée Mobula mobular au sein de la Méditerranée.
+Created in 2006, the AILERONS association's first objective is to study sharks and rays (elasmobranchs) in French Mediterranean waters for a better knowledge and conservation of the species. It has initiated several projects to this end, notably the devil of the sea project which aims to identify and locate individuals of the Mediterranean devil Mobula mobular within the Mediterranean.
 </p>
 
 <p style="text-align: justify">
-En mer Méditerranée, les élasmobranches constituent un taux important des captures accessoires des pêcheries qui commercialisent les poissons osseux. Rares sont les pêcheries ciblant les requins, mais généralement en pratique, toutes les prises accessoires sont commercialisées. La mer Méditerranée représente donc un modèle unique pour la mise en œuvre d’une approche écosytémique des pêches. Il y a très peu de données concernant les requins de Méditerranée, et la plupart des recherches sont basées sur l’étude d’animaux morts. La cause principale est notamment le manque de crédits pour la recherche en mer. Cependant, il est important de pouvoir avoir un aperçu de la diversité actuelle des élasmobranches, notamment grâce à un travail de sensibilisation de la population et la mise en place d’enquêtes publiques qui peuvent avoir des intérêts non négligeables.
+In the Mediterranean Sea, elasmobranchs constitute an important by-catch in fisheries that market bony fish. Few fisheries target sharks, but generally in practice all by-catch is commercialized. The Mediterranean Sea therefore represents a unique model for the implementation of an ecosystem approach to fisheries. There is very little data on sharks in the Mediterranean, and most research is based on the study of dead animals. The main cause is the lack of funding for research at sea. However, it is important to have an overview of the current diversity of elasmobranchs, particularly through public awareness raising and the establishment of public surveys, which can be of significant interest.
 </p>
 
 <p style="text-align: justify">
-L’objectif de ce stage est de montrer que la mise en place d’enquêtes publiques, couplée à une sensibilisation des populations, peut avoir des intérêts non négligeables et qu’elles sont capables de donner un écho de la diversité actuelle des élasmobranches.
+The aim of this intership is to show that the setting up of public enquiries, coupled with raising public awareness, can have significant benefits and that they are capable of giving an echo of the current diversity of elasmobranchs.
 </p>
 
 <p style="text-align: justify">
-Vous pouvez trouver mon rapport de stage <a href="/documents/pdfs/rapport_depetris_ailerons_2011.pdf" target="_blank">ici</a>.
+You can find my internship report <a href="/documents/pdfs/rapport_depetris_ailerons_2011.pdf" target="_blank">here</a>.
 </p>
