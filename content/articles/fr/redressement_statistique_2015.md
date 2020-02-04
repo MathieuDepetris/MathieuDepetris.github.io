@@ -2,7 +2,7 @@ title: Redressement statistique d'un échantillon
 image: /pictures/portfolio/redressement_statistique_2015.jpg
 summary: Élaboration d’une fonction de redressement statistique.
 Author: Depetris M.
-date: 2019-02-02
+date: 2020-01-30
 lang: fr
 
 ## Redressement statistique d'un échantillon

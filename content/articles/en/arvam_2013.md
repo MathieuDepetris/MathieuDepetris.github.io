@@ -2,7 +2,7 @@ title: Eutrophication bioindicators for Reunion's lagoons
 image: /pictures/portfolio/arvam_2013.jpg
 summary: Definition of eutrophication bioindicators (corals, algae) for the lagoons of Reunion Island.
 Author: Depetris M.
-date: 2020-01-28
+date: 2020-01-27
 lang: en
 
 ## Definition of eutrophication bioindicators (corals, algae) for the lagoons of Reunion Island

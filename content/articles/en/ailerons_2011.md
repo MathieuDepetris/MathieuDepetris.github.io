@@ -2,7 +2,7 @@ title: Creation of an Elasmobranch Database
 image: /pictures/portfolio/ailerons_2011.jpg
 summary: Design of a database on elasmobranches in the French Mediterranean Sea.
 Author: Depetris M.
-date: 2020-02-04
+date: 2020-01-26
 lang: en
 
 ## Design of a database on elasmobranches in the French Mediterranean Sea

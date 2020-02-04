@@ -2,7 +2,7 @@ title: Agri-food Statistics
 image: /pictures/portfolio/supagro_2013.jpg
 summary: Study on the glycemic and insulinemic index of mixed "cereal-legume" pasta and the effect of legume incorporation and pasta drying temperature.
 Author: Depetris M.
-date: 2019-09-11
+date: 2020-01-29
 lang: en
 
 ## Creation of VIVAGRI'R's website and customer file

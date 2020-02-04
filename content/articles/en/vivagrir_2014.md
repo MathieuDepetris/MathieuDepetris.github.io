@@ -2,7 +2,7 @@ title: Website and data of the company VIVAGRI'R
 image: /pictures/portfolio/vivagrir_2014.jpg
 summary: Creation of VIVAGRI'R's website and customer file.
 Author: Depetris M.
-date: 2019-09-11
+date: 2020-01-28
 lang: en
 
 ## Creation of VIVAGRI'R's website and customer file

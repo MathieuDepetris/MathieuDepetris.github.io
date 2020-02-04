@@ -2,7 +2,7 @@ title: Site internet et data de la société VIVAGRI'R
 image: /pictures/portfolio/vivagrir_2014.jpg
 summary: Création du site internet et du fichier client de la société VIVAGRI’R.
 Author: Depetris M.
-date: 2019-09-11
+date: 2020-01-28
 lang: fr
 
 ## Création du site internet et du fichier client de la société VIVAGRI’R

@@ -2,7 +2,7 @@ title: Statistiques agroalimentaires
 image: /pictures/portfolio/supagro_2013.jpg
 summary: Etude portant sur l'index glycémique et insulinémique de pâtes alimentaires mixtes « céréale-légumineuse » et l'effet de l’incorporation de légumineuse et de la température de séchage des pâtes.
 Author: Depetris M.
-date: 2019-09-11
+date: 2020-01-29
 lang: fr
 
 ## Création du site internet et du fichier client de la société VIVAGRI’R

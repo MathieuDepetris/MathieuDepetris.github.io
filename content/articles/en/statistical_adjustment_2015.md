@@ -2,7 +2,7 @@ title: Statistical adjustment of a sample
 image: /pictures/portfolio/redressement_statistique_2015.jpg
 summary: Development of a statistical adjustment function.
 Author: Depetris M.
-date: 2019-02-02
+date: 2020-01-30
 lang: en
 
 ## Statistical adjustment of a sample

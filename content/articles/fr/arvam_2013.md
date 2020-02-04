@@ -2,7 +2,7 @@ title: Bioindicateurs d’eutrophisation pour les lagons de La Réunion
 image: /pictures/portfolio/arvam_2013.jpg
 summary: Définition de bioindicateurs d’eutrophisation (coraux, algues) pour les lagons de La Réunion.
 Author: Depetris M.
-date: 2020-01-28
+date: 2020-01-27
 lang: fr
 
 ## Définition de bioindicateurs d’eutrophisation (coraux, algues) pour les lagons de La Réunion

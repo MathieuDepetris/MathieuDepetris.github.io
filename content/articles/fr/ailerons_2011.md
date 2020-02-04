@@ -2,7 +2,7 @@ title: Création d'une base de données sur les élasmobranches
 image: /pictures/portfolio/ailerons_2011.jpg
 summary: Conception d’une base de données sur les élasmobranches de mer Méditerranée Française.
 Author: Depetris M.
-date: 2019-08-13
+date: 2020-01-26
 lang: fr
 
 ## Conception d’une base de données sur les élasmobranches de mer Méditerranée Française
