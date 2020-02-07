@@ -1,4 +1,4 @@
-title: Regional Coordination Group on Large Pelagic
+title: RCG LP
 image: /pictures/portfolio/rcglp_2019.jpg
 summary: Regional Coordination Group on Large Pelagic.
 Author: Depetris M.

@@ -1,6 +1,6 @@
 title: Project RECOLAPE
 image: /pictures/portfolio/recolape_2019.jpg
-summary: RECOLAPE, Strengthening Regional COoperation in the area of LArge PElagic fisheries data collection
+summary: Strengthening Regional COoperation in the area of LArge PElagic fisheries data collection
 Author: Depetris M.
 date: 2020-02-04
 lang: en

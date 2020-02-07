@@ -1,4 +1,4 @@
-title: Groupe de coordination régionale sur les grands pélagiques
+title: RCG LP
 image: /pictures/portfolio/rcglp_2019.jpg
 summary: Groupe de coordination régionale sur les grands pélagiques.
 Author: Depetris M.
