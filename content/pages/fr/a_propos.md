@@ -9,8 +9,6 @@ lang: fr
 
     Mathieu Depetris
     mdepetris@live.fr
-    9 avenue Raymont Pitet, 1er etage
-    34300 Agde, France
 
 ## Mentions légales
 
