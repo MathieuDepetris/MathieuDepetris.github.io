@@ -49,7 +49,7 @@ Se placer dans le répertoire ou l'on souhaite copier les fichiers sources
 
 Se placer dans le repertoire de python (ci-dessous un exemple de chemin) :
 
-    cd C:\\ProgramData\\Anaconda3\\pkgs\\python-3.7.3-h8c8aaf0_1
+    cd C:\\"Program Files"\\Python36
     md pelican-addon-clones
     cd pelican-addon-clones
     git clone --recursive https://github.com/getpelican/pelican-plugins
@@ -57,7 +57,7 @@ Se placer dans le repertoire de python (ci-dessous un exemple de chemin) :
 
 Pour installer un thème (ici avec l'exemple du thème pelican-fh5co-marble disponible dans les fichiers sources du site)
 
-    pelican-themes --install E:\\1-BibiCorp\\Travail\\MathieuDepetris.github.io\\themes\\pelican-fh5co-marble
+    pelican-themes --install D:\\developpement\\MathieuDepetris.github.io\\themes\\pelican-fh5co-marble
     # Pour verifier les thèmes installés
     pelican-themes -v -l
     # Pour supprimer un thème
@@ -67,7 +67,7 @@ Pour installer un thème (ici avec l'exemple du thème pelican-fh5co-marble disp
 
 Ouvrir un terminal git-bash puis se déplacer dans le dossier local du git (exemple ci-dessous à adapter) :
 
-    cd D:\\IRD\\developpement\\04_git\\MathieuDepetris.github.io
+    cd D:\\developpement\\MathieuDepetris.github.io
     # ou
     cd R:\\travail\\MathieuDepetris.github.io
 

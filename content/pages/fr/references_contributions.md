@@ -25,7 +25,7 @@ lang: fr
 
 <a href="https://www.iotc.org/documents/WPTT/20/36" target="_blank">Katara, I., Gaertner, D., Marsac, F., Grande, M., Kaplan, D., Guéry, L., Depetris, M., Duparc, A., Floch, L., Lopez, J., Abascal, F., 2018. Standardisation of yellowfin tuna CPUE for the EU purse seine fleet operating in the Indian Ocean. Presented at the 20th working party on tropical tunas, IOTC, Mahé, Seychelles.</a>
 
-## Projets
+## Projets européens 
 
 <p style="text-align: justify">
 <font color="#238896"><strong>RECOLAPE (MARE/2016/22):</font></strong> strengthening <font color="#238896">RE</font>gional <font color="#238896">CO</font>operation in the area of <font color="#238896">LA</font>rge <font color="#238896">PE</font>lagic fishery data collection.<br>
@@ -39,5 +39,5 @@ Co-coordinateur du WP2 et coordinateur du WP5. Rapport final disponible <a href=
 </p>
 
 <p style="text-align: justify">
-<a href="/documents/pdfs/presentation_aerme_ob7_2018.pdf" target="_blank">Depetris, M., Lebranchu, J., 2018. L'observatoire des écosystèmes pélagiques tropicaux exploités, un système d'information complexe de collecte, de bancarisation, d'analyse et d'utilisations variées de données hétérogènes (pêches, obeservateurs embarqués, VMS, enquêtes). Presentation pour le module Approche Ecosystémique des Ressources Marines Exploitées (AERME).</a>
+<a href="/documents/pdfs/presentation_aerme_ob7_2021.pdf" target="_blank">Depetris, M., Floc'h, L., Duparc, A., 2021. L'observatoire des écosystèmes pélagiques tropicaux exploités, un système d'information complexe de collecte, de bancarisation, d'analyse et d'utilisations variées de données hétérogènes (pêches, obeservateurs embarqués, VMS, enquêtes). Presentation pour le module Approche Ecosystémique des Ressources Marines Exploitées (AERME).</a>
 </p>
