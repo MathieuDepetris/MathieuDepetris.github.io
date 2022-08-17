@@ -5,8 +5,6 @@ summary: Vous trouverez ici la liste des formations que j'ai suivies ainsi que l
 date: 2018-08-14
 lang: fr
 
-Si besoin, vous pouvez accéder à mon CV <a href="/documents/cv_fr_depetris.pdf" target="_blank">ici</a>.
-
 ## Formations principales
 
 <p style="text-align: justify">

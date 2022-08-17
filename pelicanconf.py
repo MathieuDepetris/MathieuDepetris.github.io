@@ -103,12 +103,7 @@ PAGE_ORDER_BY = 'order'
 # Contact section
 ABOUT = {
   'mail': 'mdepetris@live.fr',
-  # keep it a string if you dont need multiple languages
-  'text': '9 avenue Raymond Pitet, 1er étage<br/> 34300 Agde, <br/>France',
-  #'link': 'contact.html',
-  # the address is also taken for google maps
-  'address': '9 avenue Raymond Pitet, 1er étage<br/> 34300 Agde, <br/>France',
-  'phone': '+33(0) 6 61 62 72 04'
+  'phone': '+33 6 61 62 72 04'
 }
 
 # Background home

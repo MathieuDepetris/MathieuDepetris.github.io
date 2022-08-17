@@ -1,5 +1,5 @@
 # Prérequis
-Sous Windows, il faut installer Git-Bash et Anaconda.
+Sous Windows, il faut installer Git-Bash.
 Pour tester le bon fonctionnement ouvrir le terminal git-bash et taper :
 
     bash
@@ -7,9 +7,8 @@ Pour tester le bon fonctionnement ouvrir le terminal git-bash et taper :
 On doit ni avoir aucun message.
 
     git
-    conda
 
-Dans les deux cas, on doit voir apparaitre des lignes de commande.
+On doit voir apparaitre des lignes de commande.
 
 Il faut ensuite lancer via le terminal git-bash : 
 
@@ -67,7 +66,7 @@ Pour installer un thème (ici avec l'exemple du thème pelican-fh5co-marble disp
 
 Ouvrir un terminal git-bash puis se déplacer dans le dossier local du git (exemple ci-dessous à adapter) :
 
-    cd D:\\developpement\\MathieuDepetris.github.io
+    cd D:\\developpement\\git\\MathieuDepetris.github.io
     # ou
     cd R:\\travail\\MathieuDepetris.github.io
 

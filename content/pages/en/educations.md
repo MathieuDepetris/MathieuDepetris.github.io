@@ -5,8 +5,6 @@ summary: You will find here the list of education I have followed and the associ
 date: 2018-08-14
 lang: en
 
-If need be, you can access my CV <a href="/documents/cv_fr_depetris.pdf" target="_blank">here</a>.
-
 ## Main educations
 
 <p style="text-align: justify">
