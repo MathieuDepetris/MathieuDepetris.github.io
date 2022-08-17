@@ -1,6 +1,7 @@
 title: Expériences
 order: 2
 icon: icon-eye
+summary: 
 date: 2022-08-17
 lang: fr
 
