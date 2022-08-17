@@ -102,8 +102,7 @@ PAGE_ORDER_BY = 'order'
 
 # Contact section
 ABOUT = {
-  'mail': 'mdepetris@live.fr',
-  'phone': '+33 6 61 62 72 04'
+  'mail': 'mdepetris@live.fr'
 }
 
 # Background home
