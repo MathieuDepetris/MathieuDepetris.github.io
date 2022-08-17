@@ -1,8 +1,7 @@
 title: Educations
 order: 1
 icon: icon-point-of-interest
-summary: You will find here the list of education I have followed and the associated skills.
-date: 2018-08-14
+date: 2022-08-17
 lang: en
 
 ## Main educations

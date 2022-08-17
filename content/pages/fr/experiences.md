@@ -1,7 +1,6 @@
 title: Expériences
 order: 2
 icon: icon-eye
-summary: Vous trouverez ici la liste et les références de mes expériences professionnelles.
 date: 2022-08-17
 lang: fr
 
