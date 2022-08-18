@@ -1,7 +1,7 @@
 title: Références et contributions
 order: 3
 icon: icon-eye
-summary: Vous trouverez ici mes références et mes contributions.
+summary:
 date: 2018-08-19
 lang: fr
 

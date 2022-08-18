@@ -1,28 +1,28 @@
 title: Formations
 order: 1
 icon: icon-point-of-interest
-summary: Vous trouverez ici la liste des formations que j'ai suivies ainsi que les compétences associées.
+summary:
 date: 2018-08-14
 lang: fr
 
 ## Formations principales
 
 <p style="text-align: justify">
-<a href="https://formations.umontpellier.fr/fr/formations/sciences-technologies-sante-STS/master-XB/master-mathematiques-program-fruai0342321nprme157/statistique-pour-les-sciences-de-la-vie-subprogram-pr496.html" target="_blank">
+<a href="https://www.umontpellier.fr/" target="_blank">
 <img align=left src="/pictures/logos/logo_universite_montpellier.png" width="55" height="55" hspace="20"></a>
-Master <font color="#238896">M</font>éthodes <font color="#238896">S</font>tatistiques des <font color="#238896">I</font>ndustries <font color="#238896">A</font>gronomiques, <font color="#238896">A</font>groalimentaires et <font color="#238896">P</font>harmaceutiques <br> Anciennement <font color="#238896">MSIAAP</font> maintenant <a href="https://formations.umontpellier.fr/fr/formations/sciences-technologies-sante-STS/master-XB/master-mathematiques-program-fruai0342321nprme157/statistique-pour-les-sciences-de-la-vie-subprogram-pr496.html" target="_blank">SSV</a>, Université de Montpellier – <font color="#238896"><strong>2013</strong></font>
+Master <font color="#238896">M</font>éthodes <font color="#238896">S</font>tatistiques des <font color="#238896">I</font>ndustries <font color="#238896">A</font>gronomiques, <font color="#238896">A</font>groalimentaires et <font color="#238896">P</font>harmaceutiques <br> Université de Montpellier – <font color="#238896"><strong>2013</strong></font>
 </p>
 
 <p style="text-align: justify">
-<a href="https://biologie-ecologie.com/parcours-baemt/" target="_blank">
+<a href="https://ingenieurs-ecologues.com/" target="_blank">
 <img align=left src="/pictures/logos/logo_bee.png" width="55" height="55" hspace="20"></a>
-Master <font color="#238896">B</font>ioressources <font color="#238896">A</font>quatiques en <font color="#238896">E</font>nvironnement <font color="#238896">M</font>éditerranéen et <font color="#238896">T</font>ropical <br> <a href="https://biologie-ecologie.com/parcours-baemt/" target="_blank">BAEMT</a>, Université de Montpellier – <font color="#238896"><strong>2012</strong></font>
+Master <font color="#238896">B</font>ioressources <font color="#238896">A</font>quatiques en <font color="#238896">E</font>nvironnement <font color="#238896">M</font>éditerranéen et <font color="#238896">T</font>ropical <br> Université de Montpellier – <font color="#238896"><strong>2012</strong></font>
 </p>
 
 <p style="text-align: justify">
-<a href="https://biologie-ecologie.com/licence-biologie/licence-ebo/" target="_blank">
+<a href="https://biologie-ecologie.com/" target="_blank">
 <img align=left src="/pictures/logos/logo_bee.png" width="55" height="55" hspace="20"></a>
-Licence Ecologie et Biologie des Organismes <br> <a href="https://biologie-ecologie.com/licence-biologie/licence-ebo/" target="_blank">EBO</a>, Université de Montpellier – <font color="#238896"><strong>2010</strong></font>
+Licence Ecologie et Biologie des Organismes <br> Université de Montpellier – <font color="#238896"><strong>2010</strong></font>
 </p>
 
 ## Formations complémentaires
