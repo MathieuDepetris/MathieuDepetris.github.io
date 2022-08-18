@@ -1,7 +1,7 @@
 title: References and contributions
 order: 3
 icon: icon-eye
-summary: Here you will find my references and contributions.
+summary:
 date: 2020-02-03
 lang: en
 

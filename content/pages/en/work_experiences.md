@@ -1,15 +1,14 @@
 title: Work experiences
 order: 2
 icon: icon-eye
-summary: You will find here the list and the references of my professional experiences.
+summary:
 date: 2020-02-03
 lang: en
 
-If need be, you can access my CV <a href="/documents/cv_fr_depetris.pdf" target="_blank">here</a>.
-
 <p style="text-align: justify">
 <font color="#238896"><strong>2018 until now – Fisheries data analyst:</strong> French National Research Institute for Sustainable Development – Ifremer Sète</font><br>
-For more information click <a href="https://www.ob7.ird.fr/" target="_blank">here</a>.
+Administration, validation and exploitation of the French tropical tuna fishery data (Indian and Atlantic Oceans).<br>
+<font color="#238896">Results:</font> collaboration in the coordination of data calls addressed to IRD by the DGAMPA or the EU DG Mare. Improvement of data processing/qualification/validation processes necessary for expertise. Participation in RFMOs working groups and associated stock assessments. Contribution to DCMAP meetings. Contribution to European projects (leader WP2-5 project RECOLAPE MARE/2016/22, co-leader WP1-3 project FishNCo MARE/2020/08 and involved in the project SecWeb MARE/2020/08). Involvement in the regional coordination group on large pelagics.
 </p>
 
 <p style="text-align: justify">

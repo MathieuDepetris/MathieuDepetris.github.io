@@ -1,7 +1,7 @@
 title: Useful resources
 order: 4
 icon: icon-cog
-summary: This section contains several links to open source computer resources.
+summary:
 date: 2020-02-03
 lang: en
 

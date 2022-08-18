@@ -8,7 +8,7 @@ lang: fr
 <p style="text-align: justify">
 <font color="#238896"><strong>2018 à Aujourd’hui – Data analyst en halieutique :</strong> Institut de Recherche pour le Développement – Station Ifremer Sète</font><br>
 Administration, validation et exploitatation des données de la pêche thonière tropicale française (océans Indien et Atlantique).<br>
-<font color="#238896">Résultats :</font> collaboration à la coordination des appels à données adressés à l’IRD par la DPMA ou la DG Mare de l’UE. Amélioration des processus de traitement/qualification/validation de données nécessaires aux travaux d’expertise. Participation aux groupes de travail des ORGPs et évaluations des stocks associées. Contribution aux réunions de la DCMAP. Contribution à des projets européens (leader WP2-5 projet RECOLAPE MARE/2016/22, co-leader WP1-3 project FishNCo MARE/2020/08 et impliqué dans le projet SecWeb MARE/2020/08). Implication dans le groupe de coordination régionale sur les grands pélagiques.
+<font color="#238896">Résultats :</font> collaboration à la coordination des appels à données adressés à l’IRD par la DGAMPA ou la DG Mare de l’UE. Amélioration des processus de traitement/qualification/validation de données nécessaires aux travaux d’expertise. Participation aux groupes de travail des ORGPs et évaluations des stocks associées. Contribution aux réunions de la DCMAP. Contribution à des projets européens (leader WP2-5 projet RECOLAPE MARE/2016/22, co-leader WP1-3 project FishNCo MARE/2020/08 et impliqué dans le projet SecWeb MARE/2020/08). Implication dans le groupe de coordination régionale sur les grands pélagiques.
 </p>
 
 <p style="text-align: justify">
