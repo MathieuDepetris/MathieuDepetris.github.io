@@ -5,12 +5,14 @@ summary:
 date: 2018-08-19
 lang: fr
 
-## Analyses statistiques
+## Analyses statistiques et programmation
+
+<a href="https://cran.r-project.org/" target="_blank">
+<img src="/pictures/logos/logo_r.png" width="55" height="55" hspace="20"></a>
+<font color="#238896"><strong>R - Project for Statistical Computing</strong></font>
 
 <p style="text-align: justify">
-<a href="https://cran.r-project.org/" target="_blank">
-<img align=left src="/pictures/logos/logo_r.png" width="55" height="55" hspace="20"></a>
-Logiciel incontournable, <font color="#238896"><strong>R</strong></font> propose à son utilisateur un langage et un environnement logiciel open source permettant de réaliser des calculs statistiques et graphiques. Un de ces grands avantages est la possibilité d’installer de nombreux packages.
+Logiciel incontournable, <font color="#238896"><strong>R</strong></font> propose à son utilisateur un langage et un environnement logiciel open source permettant de réaliser des calculs statistiques et graphiques. Un de ces grands avantages est la possibilité d’installer de nombreux packages. Pour une utilisation sous windows, n'oubliez pas d'installer <a href="https://cran.r-project.org/bin/windows/Rtools/" target="_blank">RTools</a> pour pouvoir compiler vos packages.
 </p>
 
 ## Référencement
@@ -30,12 +32,6 @@ Logiciel incontournable, <font color="#238896"><strong>R</strong></font> propose
 </p>
 
 <p style="text-align: justify">
-<a href="https://notepad-plus-plus.org/fr/" target="_blank">
-<img align=left src="/pictures/logos/logo_notepadplusplus.png" width="55" height="55" hspace="20"></a>
-<font color="#238896"><strong>Notepad++</strong></font> est un éditeur de code source qui prend en charge plusieurs langages. Ce programme, codé en C++ avec STL et win32 api, a pour vocation de fournir un éditeur de code source de taille réduite mais très performant.
-</p>
-
-<p style="text-align: justify">
 <a href="https://code.visualstudio.com/" target="_blank">
 <img align=left src="/pictures/logos/logo_visual_studio_code.png" width="55" height="55" hspace="20"></a>
 <font color="#238896"><strong>Visual Studio Code</strong></font> est un éditeur de code open-source extensible développé par Microsoft pour Windows, Linux et macOS. Il supporte un très grand nombre de langages grâce à des extensions ainsi que l’autocomplétion, la coloration syntaxique, le débogage, et les commandes git.
@@ -45,14 +41,6 @@ Logiciel incontournable, <font color="#238896"><strong>R</strong></font> propose
 <a href="https://www.anaconda.com/" target="_blank">
 <img align=left src="/pictures/logos/logo_anaconda.png" width="55" height="55" hspace="20"></a>
 <font color="#238896"><strong>Anaconda</strong></font> est une plateforme de gestion de paquets en Open source, d’environnement et de distribution des langages de programmation R et Python. Cette plateforme est utilisée pour le calcul scientifique, l’analyse prédictive et le traitement des données à grande échelle.
-</p>
-
-## Suites bureautiques
-
-<p style="text-align: justify">
-<a href="https://fr.libreoffice.org/" target="_blank">
-<img align=left src="/pictures/logos/logo_libreoffice.png" width="55" height="55" hspace="20"></a>
-<font color="#238896"><strong>LibreOffice</strong></font> est une suite bureautique alternative à la suite Microsoft Office.<br>Elle est libre et gratuite, dérivée du projet OpenOffice.org.
 </p>
 
 ## Système de gestion de base de données
@@ -97,14 +85,6 @@ Véritable référence, le logiciel gratuit <font color="#238896"><strong>Adobe 
 <font color="#238896"><strong>TeXnicCenter</strong></font> est un logiciel libre sous la licence GNU GPL version 2, qui se présente sous la forme d'un environnement de développement intégré pour le langage LaTeX sous Windows. Il est basé sur les distributions MiKTeX ou TeX Live.
 </p>
 
-## Créations graphiques
-
-<p style="text-align: justify">
-<a href="https://www.gimp.org/" target="_blank">
-<img align=left src="/pictures/logos/logo_gimp.png" width="55" height="55" hspace="20"></a>
-Alternative à Photoshop, <font color="#238896"><strong>GIMP</strong></font> est un programme de créations graphiques et de retouches photos très puissant. <br> Il comporte l’ensemble des outils nécessaires à la création de dessins et à l’amélioration d’un cliché.
-</p>
-
 ## Logiciel de gestion de versions
 
 <p style="text-align: justify">
@@ -141,12 +121,6 @@ Alternative à Photoshop, <font color="#238896"><strong>GIMP</strong></font> est
 Initalement pensé pour les joueurs et bonne alernative à Skype, <font color="#238896"><strong>Discord</strong></font> une application de discussions en ligne multi-plateforme. Elle de créer son propre serveur de discussion privé ou public, ainsi que plusieurs canaux de discussions (vocal ou texte), accessibles avec des droits que vous pourrez définir.
 </p>
 
-<p style="text-align: justify">
-<a href="https://www.thunderbird.net/" target="_blank">
-<img align=left src="/pictures/logos/logo_thunderbird.png" width="55" height="55" hspace="20"></a>
-<font color="#238896"><strong>Thunderbird</strong></font> est une application de messagerie facile à configurer et à personnaliser. Elle comporte de nombreuses fonctionnalités très pratiques, comme par exemple la sychronisation des agendas google (via le module <a href="https://addons.thunderbird.net/fr/thunderbird/addon/provider-for-google-calendar/" target="_blank">Fournisseur pour Google Agenda</a>) ou la gestion des contacts (avec le module <a href="https://addons.thunderbird.net/fr/thunderbird/addon/cardbook/" target="_blank">CardBook</a>).
-</p>
-
 ## Divers
 
 <p style="text-align: justify">
@@ -159,10 +133,4 @@ Initalement pensé pour les joueurs et bonne alernative à Skype, <font color="#
 <a href="https://www.win-rar.com/start.html?&L=10" target="_blank">
 <img align=left src="/pictures/logos/logo_winrar.png" width="55" height="55" hspace="20"></a>
 <font color="#238896"><strong>WinRAR</strong></font> est un logiciel propriétaire de compression de données. La version d'essai gratuite vous permet d'utiliser par défaut un algorithme de compression propriétaire, le RAR, mais il est également capable de compresser au format ZIP et d'extraire des archives aux formats (7z, ISO, JAR, TAR, etc.).
-</p>
-
-<p style="text-align: justify">
-<a href="https://evernote.com/intl/" target="_blank">
-<img align=left src="/pictures/logos/logo_evernote.png" width="55" height="55" hspace="20"></a>
-<font color="#238896"><strong>Evernote</strong></font> est un logiciel qui permet d’enregistrer des informations, sous forme de notes, images, vidéos, ou pages web. Il est utilisable dans plusieurs environnements, avec de nombreux appareils et/ou plateformes différentes. Il existe plusieurs format mais vous pouvez utiliser la version gratuite sans problème.
 </p>
