@@ -1,6 +1,6 @@
 title: Formations
 order: 1
-icon: icon-point-of-interest
+icon: icon-eye
 summary:
 date: 2018-08-14
 lang: fr

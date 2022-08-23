@@ -1,6 +1,6 @@
 title: Educations
 order: 1
-icon: icon-point-of-interest
+icon: icon-eye
 summary:
 date: 2022-08-17
 lang: en
