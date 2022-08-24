@@ -5,6 +5,12 @@ summary:
 date: 2020-02-03
 lang: en
 
+## Projects in development
+
+<p style="text-align: justify">
+<a href="https://ob7-ird.github.io/t3/" target="_blank">Tropical Tuna Treatment</a> (R package). The multi-species nature of tropical tuna surface fisheries gives rise to a series of difficulties when estimating the catch by species and catch at size statistics. The Tropical Tuna Treatment (T3) processing was built about 30 years ago in order to correct biases of the logbook data on species composition and to provide more accurate catch estimates per species for purse seine fleet.
+</p>
+
 ## Refereed publications
 
 <p style="text-align: justify">

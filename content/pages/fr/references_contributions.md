@@ -5,6 +5,12 @@ summary:
 date: 2018-08-19
 lang: fr
 
+## Projets en développement
+
+<p style="text-align: justify">
+<a href="https://ob7-ird.github.io/t3/" target="_blank">Traitement des Thons Tropicaux</a> (package R). La nature multi-espèces des pêcheries de surface de thon tropical donne lieu à une série de difficultés lors de l'estimation des statistiques de capture par espèce et de capture par taille. Le Traitement des Thons Tropicaux (T3) a été construit il y a environ 30 ans afin de corriger les biais des données des journaux de bord sur la composition des espèces et de fournir des estimations plus précises des captures par espèce pour la flotte de senneurs.
+</p>
+
 ## Publications avec comité de lecture
 
 <p style="text-align: justify">
