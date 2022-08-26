@@ -54,7 +54,7 @@ Se placer dans le repertoire de python (ci-dessous un exemple de chemin) :
     git clone --recursive https://github.com/getpelican/pelican-plugins
     git clone --recursive https://github.com/getpelican/pelican-themes
 
-Pour installer un thème (ici avec l'exemple du thème pelican-fh5co-marble disponible dans les fichiers sources du site)
+Pour installer un thème (ici avec l'exemple du thème pelican-fh5co-marble disponible dans les fichiers sources du site) :
 
     pelican-themes --install D:\\developpement\\MathieuDepetris.github.io\\themes\\pelican-fh5co-marble
     # Pour verifier les thèmes installés
