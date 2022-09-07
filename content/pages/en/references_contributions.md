@@ -72,13 +72,17 @@ Co-coordinator of WP2 and coordinator of WP5. Final report available <a href="/d
 
 ### 2020
 
-<a href="https://www.iotc.org/documents/WPTT/2201/INF01" target="_blank">Duparc, A., Depetris, M., Floch, L., Cauquil, P., Bach, P., Lebranchu, J., 2020. Development status of the new tropical tunas treatment (t3) software. IOTC-2020-WPTT22(DP)-INF01.</a>
+<a href="https://iotc.org/documents/WPTT/2202/13" target="_blank">Duparc, A., Depetris, M., Cauquil, P., & Lebranchu, J., 2020. Improved version of the Tropical Tuna Treatment process: New perspectives for catch estimates of tropical purse seine fishery. Report of the 22nd Session of the IOTC Working Party on Tropical Tunas - Stock Assessment Meeting, 1–21.</a>
+
+<a href="https://www.iotc.org/documents/WPTT/2201/INF01" target="_blank">Duparc, A., Depetris, M., Floch, L., Cauquil, P., Bach, P., & Lebranchu, J., 2020. Development status of the new Tropical Tunas Treatment (T3) software. Report of the 22nd Session of the IOTC Working Party on Tropical Tunas - Data Preparatory Meeting, 1–5. IOTC-2020-WPTT22(DP)-INF01.</a>
 
 <a href="https://www.iotc.org/documents/WPTT/2202/INF02" target="_blank">Duparc, A., Floch, L., Cauquil, P., Depetris, M., Lebranchu, J., Yala, D., Bach, P., 2020. Statistics of the French purse seine fishing fleet targeting tropical tunas in the atlantic ocean (1991-2019). Col Vol Sci Pap ICCAT, SCRS/2020/137 77, 73–102.</a>
 
 ### 2019
 
-<a href="https://www.iotc.org/sites/default/files/documents/2019/10/IOTC-2019-WPTT21-10.pdf" target="_blank">Duparc, A., Aragno, V., Depetris, M., Floch, L., Cauquil, P., Lebranchu, J., Gaertner, D., Marsac, F., Bach, P., 2019. Assessment of the species composition of major tropical tunas in purse seine catches: a new modelling approach for the tropical tuna treatment processing. IOTC-2019-WPTT21-10.</a>
+<a href="https://www.iccat.int/Documents/CVSP/CV076_2019/n_6/CV076060951.pdf" target="_blank">Duparc, A., Aragno, V., Depetris, M., Floch, L., Cauquil, P., Lebranchu, J., Gaertner, D., Marsac, F., & Bach, P., 2019. Assessment of the species composition of major tropical tunas in purse seine catches: A new modelling approach for the Tropical Tuna Treatment processing. Case of the French fleet in Atlantic Ocean. Col.Vol.Sci.Pap. ICCAT, 76(6), 951–982. SCRS/2019/189.</a>
+
+<a href="https://www.iotc.org/sites/default/files/documents/2019/10/IOTC-2019-WPTT21-10.pdf" target="_blank">Duparc, A., Aragno, V., Depetris, M., Floch, L., Cauquil, P., Lebranchu, J., Gaertner, D., Marsac, F., & Bach, P., 2019. Assessment of the species composition of major tropical tunas in purse seine catches: A new modelling approach for the Tropical Tuna Treatment processing. Case of the French fleet in Indian Ocean. Report of the 21th Session of the IOTC Working Party on Tropical Tunas, 1–35. IOTC-2019-WPTT21-10.</a>
 
 <a href="https://www.iotc.org/documents/WPTT/21/11" target="_blank">Floch, L., Depetris, M., Dewals, P., Duparc, A., Kaplan, D.M., Lebranchu, J., Marsac, F., Pernak, M., Bach, P., 2019. Statistics of the French Purse Seine Fishing Fleet Targeting Tropical Tunas in the Indian Ocean (1981-2018) (No. IOTC-2019-WPTT21-11_Rev1). Indian Ocean Tuna Commission Working Party on Tropical Tunas (WPTT).</a>
 
