@@ -70,6 +70,10 @@ Co-coordinator of WP2 and coordinator of WP5. Final report available <a href="/d
 
 ## Non-refereed publications or outreach
 
+### 2022
+
+<a href="https://bdj.pensoft.net/article/85938/" target="_blank">Guillou, A.M., Bodin, N., Chassot, E., Duparc, A., Fily, T., Sabarros. P.S., Depetris, M., Amandè, M.J., Lucas, J., Augustin, E., Diaha, N.C., Floch, L., Barde, J., Pascual-Alayón, P.J., Báez, J.C., Cauquil, P., Briand, K., Lebranchu, J. (2022) Tunabio: biological traits of tropical tuna and bycatch species caught by purse seine fisheries in the Western Indian and Eastern Central Atlantic Oceans. Biodiversity Data Journal 10: e85938. https://doi.org/10.3897/BDJ.10.e85938</a>
+
 ### 2020
 
 <a href="https://iotc.org/documents/WPTT/2202/13" target="_blank">Duparc, A., Depetris, M., Cauquil, P., & Lebranchu, J., 2020. Improved version of the Tropical Tuna Treatment process: New perspectives for catch estimates of tropical purse seine fishery. Report of the 22nd Session of the IOTC Working Party on Tropical Tunas - Stock Assessment Meeting, 1–21.</a>
